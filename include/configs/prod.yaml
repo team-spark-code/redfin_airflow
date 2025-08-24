@@ -1,0 +1,19 @@
+# include/configs/prod.yaml
+# 운영 환경 오버레이 설정
+project: redfin
+timezone: Asia/Seoul
+
+# 운영 데이터 루트(백업/권한/모니터링 적용 경로)
+data_root: /opt/airflow/data
+
+rss:
+  # 운영: 트래픽/신뢰도 사이 밸런스
+  per_request_delay: 0.5
+  concurrent_requests: 8
+
+vectorstore:
+  # 운영: OpenAI 임베딩(품질/일관성), 필요 시 프록시/네트워크 정책 반영
+  embedder: openai
+  sentence_model: all-MiniLM-L6-v2   # (미사용; 로컬로 전환 시 사용)
+  collection: ai_news_en
+  chroma_dir: /opt/airflow/chroma

@@ -1,0 +1,22 @@
+Server: nginx
+Date: Sun, 24 Aug 2025 17:36:46 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding, Origin
+X-Hacker: If you're reading this, you should visit https://join.a8c.com/viphacker and apply to join the fun, mention this header.
+X-Powered-By: WordPress VIP <https://wpvip.com>
+Host-Header: a9130478a60e5f9135f765b23f26593b
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: default-src 'self' *.techcrunch.com; frame-ancestors 'self'; frame-src 'self' https:; style-src 'self' 'unsafe-inline' *; img-src 'self' * data:; connect-src 'self' https:; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' *; worker-src 'self' blob:; media-src 'self' *.youtube.com *.jetpackdigital.com; font-src 'self' * data:; upgrade-insecure-requests; block-all-mixed-content; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox;
+Permissions-Policy: autoplay=(), camera=(), fullscreen=*, geolocation=*, display-capture=(self), microphone=()
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Access-Control-Allow-Origin: https://techcrunch.com
+Access-Control-Allow-Methods: *
+X-Robots-Tag: noindex, follow
+Link: <https://techcrunch.com/wp-json/>; rel="https://api.w.org/"
+Content-Encoding: gzip
+X-Rq: hkg2 0 30 9980
+Accept-Ranges: bytes
+X-Cache: HIT
+Cache-Control: max-age=300, must-revalidate
+Strict-Transport-Security: max-age=300;includeSubdomains

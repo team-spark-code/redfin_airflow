@@ -1,0 +1,11 @@
+User-Agent: *
+Allow: /
+Disallow: /_next/
+Disallow: /_next/*
+Disallow: /helloworld
+Disallow: /events/*
+Disallow: /studio
+Disallow: /studio-cohere-labs
+Disallow: /studio-mops
+
+Sitemap: https://cohere.com/sitemap.xml

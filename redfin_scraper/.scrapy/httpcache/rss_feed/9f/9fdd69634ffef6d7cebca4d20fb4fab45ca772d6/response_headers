@@ -1,0 +1,21 @@
+Content-Length: 211
+Content-Type: text/plain
+Content-Security-Policy: frame-ancestors 'self' https://*.ibm.com https://ibm.com https://research.ibm.com; upgrade-insecure-requests
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1
+Date: Sun, 24 Aug 2025 17:36:44 GMT
+X-Clv-Request-Id: 8c3afe55-3a09-4c63-bbf8-c6ab3066d34e
+Server: Cleversafe
+X-Clv-S3-Version: 2.5
+Accept-Ranges: bytes
+Cache-Control: public, max-age=600
+Cache-Control: private
+Etag: "ce7252401d9044bd743e98fe3220a7fc"
+Last-Modified: Sun, 24 Aug 2025 05:00:55 GMT
+Vary: Accept-Encoding
+Set-Cookie: 708650a6bc8d991278434dc9ee4329db=1c318f1aebc0df1a7e5670a592370cc3; path=/; HttpOnly; Secure; SameSite=None
+X-Cache: Miss from cloudfront
+Via: 1.1 6c2d36902aa2beb329c88167d0ba006c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: TLV50-C1
+X-Amz-Cf-Id: 4QzoOWWGtNho8abz1U8ttjvM4OTQIcPeE0CeiYwaAwGDUXLX2A8VSA==

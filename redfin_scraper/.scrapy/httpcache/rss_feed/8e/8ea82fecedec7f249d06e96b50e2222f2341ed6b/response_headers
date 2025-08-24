@@ -1,0 +1,14 @@
+Content-Length: 306
+Date: Sun, 24 Aug 2025 17:35:27 GMT
+Last-Modified: Wed, 13 Mar 2019 17:49:47 GMT
+Etag: "5c8942bb-132"
+Content-Type: text/plain
+X-Cache-Timestamp: Sun, 24 Aug 2025 17:35:27 GMT
+X-Varnish: 1026334 3727498
+Age: 74
+Accept-Ranges: bytes
+X-Varnish-2023-Age: 74.125
+X-Varnish-2023-Ttl: 225.875
+X-Varnish-2023-Cache: HIT
+Via: 1.1 ipr-varnish-2023 (Varnish/7.4), 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

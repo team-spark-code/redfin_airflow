@@ -1,0 +1,38 @@
+# include/rss_feeds/ai_feeds.yaml
+# AI 뉴스/테크/연구/대학 RSS 목록
+# - 필요에 따라 추가/삭제
+# - 스파이더에서 이 파일을 읽어 RSS_FEEDS로 사용하도록 구현하세요.
+
+mainstream:
+  - https://www.theverge.com/rss/index.xml
+  - https://www.nature.com/subjects/artificial-intelligence.rss
+  - https://feeds.arstechnica.com/arstechnica/technology-lab
+
+tech_news:
+  - https://feeds.feedburner.com/TechCrunch/artificial-intelligence
+  - https://www.wired.com/feed/tag/artificial-intelligence/latest/rss
+  - https://www.technologyreview.com/feed/
+
+company_research_blogs:
+  - https://openai.com/blog/rss
+  - https://ai.googleblog.com/atom.xml
+  - https://deepmind.google/discover/blog/feed.xml
+  - https://engineering.fb.com/feed/        # Meta Engineering
+  - https://aws.amazon.com/blogs/machine-learning/feed/
+  - https://azure.microsoft.com/en-us/blog/topics/ai/feed/
+
+labs:
+  - https://huggingface.co/blog/feed.xml
+  - https://stability.ai/blog/rss.xml
+
+universities:
+  - https://news.mit.edu/topic/artificial-intelligence2-rss.xml
+  - https://www.cs.stanford.edu/feeds/blog.xml
+  - https://www.cs.cmu.edu/news/rss.xml
+  - https://ai.stanford.edu/blog/feed.xml
+  - https://www.ox.ac.uk/news/science/rss.xml
+
+notes:
+  # - 각 피드의 품질/빈도를 모니터링하여 비활성화/조정
+  # - 일부 피드는 summary-only 일 수 있으며, 본문은 링크 페이지로 폴백 필요
+  # - 국가/도메인 정책에 따라 접근 제한이 있을 수 있음

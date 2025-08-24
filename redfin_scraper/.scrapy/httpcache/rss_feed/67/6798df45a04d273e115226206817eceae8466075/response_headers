@@ -1,0 +1,11 @@
+Date: Sun, 24 Aug 2025 17:36:59 GMT
+Server: nginx/1.22.1
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Set-Cookie: i18n_redirected=KR; Max-Age=31536000; Path=/; SameSite=Lax
+Via: 1.1 www.lgresearch.ai
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: Range
+Access-Control-Expose-Headers: Content-Range

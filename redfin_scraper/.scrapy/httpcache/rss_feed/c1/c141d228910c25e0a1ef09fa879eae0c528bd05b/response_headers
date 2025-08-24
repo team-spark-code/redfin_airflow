@@ -1,0 +1,15 @@
+Content-Length: 31
+Cache-Control: public, max-age=172800
+Expires: Tue, 26 Aug 2025 17:36:44 GMT
+Content-Type: text/plain
+Last-Modified: Tue, 05 Jun 2018 04:00:00 GMT
+Etag: "1f-5b160ac0-0;;;"
+Accept-Ranges: bytes
+Date: Sun, 24 Aug 2025 17:36:44 GMT
+Server: LiteSpeed
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Referrer-Policy: 
+Vary: User-Agent
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"

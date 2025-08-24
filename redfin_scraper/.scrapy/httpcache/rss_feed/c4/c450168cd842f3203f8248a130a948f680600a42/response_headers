@@ -1,0 +1,14 @@
+Server: nginx
+Date: Sun, 24 Aug 2025 17:36:42 GMT
+Content-Type: text/html; charset=utf-8
+Etag: W/"68a38a8a-629f"
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Link: <https://openid.indieauth.com/openid>; rel='openid.server'
+Link: <https://indieauth.com/auth>; rel='authorization_endpoint'
+Link: <https://tokens.indieauth.com/token>; rel='token_endpoint'
+Link: <https://webmention.io/jamesg.blog/xmlrpc>; rel='pingback'
+Link: <https://webmention.io/jamesg.blog/webmention>; rel='webmention'
+X-Powered-By: Coffee and code
+X-Favourite-Coffee-Brewer: Orea
+X-Xss-Protection: 1; mode=block
+Content-Encoding: gzip

@@ -1,0 +1,30 @@
+# Airflow 기본 패키지
+apache-airflow>=2.10.0,<3.0.0
+
+# RSS 및 웹 스크래핑
+feedparser>=6.0.0
+trafilatura>=2.0.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+ftfy>=6.0.0
+bleach>=6.0.0
+
+# Scrapy 프레임워크
+scrapy>=2.11.0
+
+# 텍스트 처리 및 유틸리티
+lxml>=4.9.0
+html5lib>=1.1
+
+# LangChain 및 벡터 저장소
+langchain>=0.1.0
+langchain-community>=0.0.20
+chromadb>=0.4.0
+
+# 데이터 처리
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 유틸리티
+python-dateutil>=2.8.0
+pytz>=2023.3

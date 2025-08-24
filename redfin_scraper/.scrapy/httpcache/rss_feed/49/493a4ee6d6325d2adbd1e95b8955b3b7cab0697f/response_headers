@@ -1,0 +1,19 @@
+Age: 0
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+Date: Sun, 24 Aug 2025 17:36:44 GMT
+Link: <https://cohere.com/blog/rss>; rel="alternate"; hreflang="en-US", <https://cohere.com/ar/blog/rss>; rel="alternate"; hreflang="ar", <https://cohere.com/ja/blog/rss>; rel="alternate"; hreflang="ja", <https://cohere.com/ko/blog/rss>; rel="alternate"; hreflang="ko", <https://cohere.com/fr/blog/rss>; rel="alternate"; hreflang="fr", <https://cohere.com/de/blog/rss>; rel="alternate"; hreflang="de", <https://cohere.com/es/blog/rss>; rel="alternate"; hreflang="es", <https://cohere.com/pt/blog/rss>; rel="alternate"; hreflang="pt", <https://cohere.com/it/blog/rss>; rel="alternate"; hreflang="it", <https://cohere.com/nl/blog/rss>; rel="alternate"; hreflang="nl", <https://cohere.com/blog/rss>; rel="alternate"; hreflang="x-default"
+Link: </_next/static/css/787de5e16b9c7772.css>; rel=preload; as="style", </_next/static/css/a7d90a5e296b40d1.css>; rel=preload; as="style", </_next/static/css/932dc834804ee5a8.css>; rel=preload; as="style", </_next/static/css/a9f86d1d098d90e7.css>; rel=preload; as="style"
+Server: Vercel
+Set-Cookie: cross-site-cookie=whatever; utm_source=value; utm_medium=value; utm_campaign=value; utm_content=value; utm_term=value; SameSite=None; Secure; Domain=cohere.com
+Set-Cookie: NEXT_LOCALE=en-US; Path=/
+Set-Cookie: NEXT_LOCALE=en-US; Path=/
+Strict-Transport-Security: max-age=31536000; includeSubDomains;
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch
+X-Content-Type-Options: nosniff
+X-Frame-Options: ALLOW-FROM https://www.sanity.io
+X-Matched-Path: /[locale]/blog/[...slug]
+X-Powered-By: Next.js
+X-Vercel-Cache: MISS
+X-Vercel-Id: icn1::iad1::rtfkg-1756057003506-b1f6bb98a89c

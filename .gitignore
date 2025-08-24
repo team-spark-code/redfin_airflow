@@ -1,0 +1,79 @@
+# Airflow 관련 파일
+airflow.db
+airflow-webserver.pid
+airflow.cfg
+webserver_config.py
+
+# 환경 설정 파일
+.env
+env.local
+*.env
+
+# 로그 파일
+logs/
+*.log
+
+# 가상환경
+venv/
+env/
+.venv/
+
+# Python 캐시
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE 설정
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS 생성 파일
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Docker 관련
+.dockerignore
+
+# 데이터베이스
+*.db
+*.sqlite
+*.sqlite3
+
+# 임시 파일
+*.tmp
+*.temp
+*.pid
+
+# 백업 파일
+*.bak
+*.backup
+*.old
+
+# 설정 백업
+*.cfg.bak
+*.conf.bak

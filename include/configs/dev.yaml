@@ -1,0 +1,20 @@
+# include/configs/dev.yaml
+# 개발 환경 오버레이 설정
+project: redfin-dev
+timezone: Asia/Seoul
+
+# 산출물/캐시 루트 경로(개발용 로컬/볼륨)
+data_root: /opt/airflow/data-dev
+
+rss:
+  # 개발 환경에서는 서버에 부담을 줄이기 위해 낮은 동시성/높은 지연
+  per_request_delay: 1.0
+  concurrent_requests: 4
+
+vectorstore:
+  # 개발: 로컬 임베딩(네트워크 불필요, 속도 빠름)
+  embedder: local
+  sentence_model: all-MiniLM-L6-v2
+  collection: ai_news_en_dev
+  # Chroma 퍼시스턴스 디렉토리(로컬)
+  chroma_dir: /opt/airflow/chroma-dev

@@ -1,0 +1,149 @@
+# AI 산업 전반 + Frontier AI Lab 모니터링용 RSS 피드 목록
+# last_updated: 2025-08-16
+
+feeds:
+  # --- Frontier / Big Tech Labs & Research ---
+  - name: OpenAI Blog (공식, 변경 가능성 주의)
+    url: https://openai.com/blog/rss.xml
+    group: frontier_lab
+  - name: OpenAI Blog (비공식 미러, James G)
+    url: https://jamesg.blog/openai.xml
+    group: frontier_lab
+  - name: Google AI Blog
+    url: https://ai.googleblog.com/feeds/posts/default?alt=rss
+    group: frontier_lab
+  - name: Google Blog - AI 카테고리
+    url: https://blog.google/technology/ai/rss/
+    group: frontier_lab
+  - name: Google DeepMind - 레거시 블로그 피드
+    url: https://deepmind.com/blog/feed/basic/
+    group: frontier_lab
+  - name: Microsoft Research Blog
+    url: https://www.microsoft.com/en-us/research/blog/feed/
+    group: frontier_lab
+  - name: NVIDIA Developer Blog
+    url: https://developer.nvidia.com/blog/feed
+    group: industry
+  - name: NVIDIA Newsroom
+    url: https://nvidianews.nvidia.com/rss
+    group: industry
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+    group: ecosystem
+  - name: Meta Engineering (엔지니어링 블로그)
+    url: https://engineering.fb.com/feed/
+    group: industry
+  - name: Stability AI Blog
+    url: https://stability.ai/blog?format=rss
+    group: frontier_lab
+  # 2025-08-20 추가
+  - name: Anthropic News  # 비공식 RSS 미러
+    url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/anthropic.com/news.rss
+    group: frontier_lab
+  - name: Cohere Blog
+    url: https://cohere.com/blog/rss
+    group: frontier_lab
+  - name: Mistral AI News
+    url: https://mistral.ai/news/rss
+    group: frontier_lab
+  - name: IBM Research Blog
+    url: https://research.ibm.com/blog/rss
+  - name: Apple Machine Learning Research
+    url: https://machinelearning.apple.com/feed.xml
+    group: frontier_lab
+
+  # --- Frontier Lab Korea
+  - name: Naver Labs Blog
+    url: https://www.naverlabs.com/blog/feed
+    group: frontier_lab_korea
+  - name:  Kakao AI Blog
+    url: https://medium.com/kakao-ai/feed
+    group: frontier_lab_korea
+  - name: Samsung Global Newsroom - AI Category
+    url: https://news.samsung.com/global/category/technology/artificial-intelligence/feed
+    group: frontier_lab_korea
+  - name: LG AI Research Blog
+    url: https://www.lgresearch.ai/blog/feed
+    group: frontier_lab_korea
+  - name: Upstage AI Blog
+    url: https://upstage.ai/blog/feed
+    group: frontier_lab_korea
+
+  # --- Academic / Research Labs ---
+  - name: BAIR (Berkeley AI Research) Blog
+    url: https://bair.berkeley.edu/blog/feed.xml
+    group: academia
+  - name: ML@CMU Blog
+    url: https://blog.ml.cmu.edu/feed/
+    group: academia
+  - name: Stanford SAIL Blog
+    url: http://ai.stanford.edu/blog/feed.xml
+    group: academia
+  - name: EleutherAI Blog
+    url: https://blog.eleuther.ai/index.xml
+    group: open_research
+  # 2025-08-20 추가
+  - name: MIT CSAIL News
+    url: https://www.csail.mit.edu/news/rss.xml
+    group: academia
+  - name: AI Alignment Forum
+    url: https://www.alignmentforum.org/rss
+    group: open_research
+
+  # --- (Korea) Academic / Research Labs ---
+  - name: KAIST Graduate School of AI Blog
+    url: https://gsai.kaist.ac.kr/blog/feed
+    group: academia_korea
+  - name: SNU AI Institute Blog
+    url: https://medium.com/snu-aiis-blog/feed
+    group: academia_korea
+  - name: ETRI Jounral RSS
+    url: https://onlinelibrary.wiley.com/rss/journal/22337326
+    group: academia_korea
+
+  # --- Cloud & Platform AI ---
+  - name: AWS Machine Learning Blog
+    url: https://aws.amazon.com/blogs/machine-learning/feed/
+    group: cloud_ai
+  - name: Google Cloud Blog (전체 피드)
+    url: https://blog.google/feed/
+    group: cloud_ai
+
+  # --- Research Paper Streams (arXiv) ---
+  - name: arXiv cs.AI
+    url: https://export.arxiv.org/rss/cs.AI
+    group: arxiv
+  - name: arXiv cs.LG (ML)
+    url: https://export.arxiv.org/rss/cs.LG
+    group: arxiv
+  - name: arXiv cs.CL (NLP)
+    url: https://export.arxiv.org/rss/cs.CL
+    group: arxiv
+  - name: arXiv stat.ML
+    url: https://export.arxiv.org/rss/stat.ML
+    group: arxiv
+
+  # --- Media / Aggregators (신뢰성 편차 있음) ---
+  - name: The Gradient
+    url: https://thegradient.pub/rss/
+    group: media
+  - name: MarkTechPost (AI 뉴스)
+    url: https://www.marktechpost.com/feed
+    group: media
+  - name: THE DECODER (AI 뉴스)
+    url: https://the-decoder.com/feed/
+    group: media
+  - name: TechCrunch – AI 카테고리
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    group: media
+  # 2025-08-20 추가
+  - name: VentureBeat AI Category
+    url: https://venturebeat.com/category/ai/feed
+    group: media
+  - name: Wired AI Tag
+    url: https://www.wired.com/tag/artificial-intelligence/rss
+    group: media
+  - name: Towards Data Science
+    url: https://towardsdatascience.com/feed
+    group: media
+

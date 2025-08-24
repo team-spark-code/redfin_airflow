@@ -1,0 +1,126 @@
+[
+  {
+    "feed_name": "OpenAI Blog (공식, 변경 가능성 주의)",
+    "feed_url": "https://openai.com/blog/rss.xml",
+    "feed_title": "OpenAI News",
+    "entry_count": 626,
+    "sample_entries": [
+      {
+        "title": "Accelerating life sciences research",
+        "link": "https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences",
+        "published": "Fri, 22 Aug 2025 08:30:00 GMT",
+        "summary": "Discover how a specialized AI model, GPT-4b micro, helped OpenAI and Retro Bio engineer more effecti...",
+        "author": "",
+        "tags": []
+      },
+      {
+        "title": "Scaling domain expertise in complex, regulated domains",
+        "link": "https://openai.com/index/blue-j",
+        "published": "Thu, 21 Aug 2025 10:00:00 GMT",
+        "summary": "Discover how Blue J is transforming tax research with AI-powered tools built on GPT-4.1. By combinin...",
+        "author": "",
+        "tags": []
+      },
+      {
+        "title": "Mixi reimagines communication with ChatGPT",
+        "link": "https://openai.com/index/mixi",
+        "published": "Wed, 20 Aug 2025 17:00:00 GMT",
+        "summary": "Discover how MIXI, a leader in digital entertainment and lifestyle services in Japan, uses ChatGPT E...",
+        "author": "",
+        "tags": []
+      }
+    ],
+    "scraped_at": "2025-08-25T02:44:49.718105"
+  },
+  {
+    "feed_name": "OpenAI Blog (비공식 미러, James G)",
+    "feed_url": "https://jamesg.blog/openai.xml",
+    "feed_title": "",
+    "entry_count": 0,
+    "sample_entries": [],
+    "scraped_at": "2025-08-25T02:44:50.971875"
+  },
+  {
+    "feed_name": "Google AI Blog",
+    "feed_url": "https://ai.googleblog.com/feeds/posts/default?alt=rss",
+    "feed_title": "",
+    "entry_count": 0,
+    "sample_entries": [],
+    "scraped_at": "2025-08-25T02:44:52.847787"
+  },
+  {
+    "feed_name": "Google Blog - AI 카테고리",
+    "feed_url": "https://blog.google/technology/ai/rss/",
+    "feed_title": "AI",
+    "entry_count": 20,
+    "sample_entries": [
+      {
+        "title": "AI breakthroughs are transforming industries, from healthcare to finance",
+        "link": "https://blog.google/technology/ai/ai-breakthroughs-transforming-industries-finance/",
+        "published": "Fri, 22 Aug 2025 19:00:00 +0000",
+        "summary": "Google's capital G logo, colored red, yellow, green, and blue, on a white background....",
+        "author": "Ruth Porat",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "title": "AI Mode in Search gets new agentic features and expands globally",
+        "link": "https://blog.google/products/search/ai-mode-agentic-personalized/",
+        "published": "Thu, 21 Aug 2025 11:00:00 +0000",
+        "summary": "A dark screen displays a rectangular input field labeled 'Ask anything' next to a colorful circular ...",
+        "author": "Robby Stein",
+        "tags": [
+          "Search",
+          "Google One",
+          "AI"
+        ]
+      },
+      {
+        "title": "Hear how a decade-long bet on AI and hardware led to the new Pixel 10.",
+        "link": "https://blog.google/products/pixel/made-by-google-podcast-pixel-history/",
+        "published": "Wed, 20 Aug 2025 22:00:00 +0000",
+        "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MadeByGoogle_8_1_YouTube.m...",
+        "author": "",
+        "tags": [
+          "Pixel",
+          "AI"
+        ]
+      }
+    ],
+    "scraped_at": "2025-08-25T02:44:53.539438"
+  },
+  {
+    "feed_name": "Google DeepMind - 레거시 블로그 피드",
+    "feed_url": "https://deepmind.com/blog/feed/basic/",
+    "feed_title": "Google DeepMind Blog",
+    "entry_count": 100,
+    "sample_entries": [
+      {
+        "title": "Introducing Gemma 3 270M: The compact model for hyper-efficient AI",
+        "link": "https://deepmind.google/discover/blog/introducing-gemma-3-270m-the-compact-model-for-hyper-efficient-ai/",
+        "published": "Thu, 14 Aug 2025 16:00:00 +0000",
+        "summary": "Today, we're adding a new, highly specialized tool to the Gemma 3 toolkit: Gemma 3 270M, a compact, ...",
+        "author": "",
+        "tags": []
+      },
+      {
+        "title": "How AI is helping advance the science of bioacoustics to save endangered species",
+        "link": "https://deepmind.google/discover/blog/how-ai-is-helping-advance-the-science-of-bioacoustics-to-save-endangered-species/",
+        "published": "Thu, 07 Aug 2025 14:59:00 +0000",
+        "summary": "Our new Perch model helps conservationists analyze audio faster to protect endangered species, from ...",
+        "author": "",
+        "tags": []
+      },
+      {
+        "title": "Genie 3: A new frontier for world models",
+        "link": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/",
+        "published": "Tue, 05 Aug 2025 14:00:00 +0000",
+        "summary": "Genie 3 can generate dynamic worlds that you can navigate in real time at 24 frames per second, reta...",
+        "author": "",
+        "tags": []
+      }
+    ],
+    "scraped_at": "2025-08-25T02:44:55.397551"
+  }
+]

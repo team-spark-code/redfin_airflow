@@ -1,0 +1,24 @@
+Date: Sun, 24 Aug 2025 17:36:44 GMT
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=14400
+Content-Disposition: inline; filename="404"
+Content-Security-Policy: script-src        'self'        'unsafe-eval'        'unsafe-inline'        https://www.googletagmanager.com/        https://static.ads-twitter.com/        https://connect.facebook.net/        https://www.google-analytics.com        https://analytics.google.com        https://client.axept.io        https://api.axept.io        https://static.axept.io/        https://vercel.live/        https://js-eu1.hs-scripts.com/        https://js-eu1.hscollectedforms.net/        https://js-eu1.hs-analytics.net/        https://js-eu1.hs-banner.com/        https://forms-eu1.hscollectedforms.net/;    style-src        'self'        'unsafe-inline'        https://www.googletagmanager.com/        https://fonts.googleapis.com/;    font-src        'self'        https://fonts.gstatic.com/;    connect-src        'self'        https://cms.mistral.ai/        https://o4507101628137472.ingest.de.sentry.io/        https://www.google-analytics.com        https://region1.google-analytics.com/        https://analytics.google.com        https://www.googletagmanager.com        https://client.axept.io        https://api.axept.io        https://forms-eu1.hscollectedforms.net/;    object-src 'none';    base-uri 'self';    form-action 'self' https://www.facebook.com/tr/;    frame-ancestors 'none';    upgrade-insecure-requests;
+Last-Modified: Thu, 21 Aug 2025 14:30:33 GMT
+Link: <https://mistral.ai/news/rss>; rel="alternate"; hreflang="en", <https://mistral.ai/fr/news/rss>; rel="alternate"; hreflang="fr", <https://mistral.ai/news/rss>; rel="alternate"; hreflang="x-default"
+Set-Cookie: NEXT_LOCALE=en; Path=/; SameSite=lax
+Set-Cookie: __cf_bm=UC5LuEgBZH4KW34VimTSwwyVAvLMcil6VdDljjNT400-1756057004-1.0.1.1-Y5QEE7gJmx1yoqr5gA2gxbo4a_UFrfCg2QdvR65n7NGnEDLeUMnHxT6U9HLi2EHm.xeQxQMNZHhOl42O1gd0yAjOCNFdhob0qHtThOvT_Ds; path=/; expires=Sun, 24-Aug-25 18:06:44 GMT; domain=.mistral.ai; HttpOnly; Secure; SameSite=None
+Set-Cookie: _cfuvid=CGY8a5P0OXXQomeyJEvN5LSUuTSkLmf5cHCkLXVgHOw-1756057004213-0.0.1.1-604800000; path=/; domain=.mistral.ai; HttpOnly; Secure; SameSite=None
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Matched-Path: /404
+X-Vercel-Cache: HIT
+X-Vercel-Id: cle1::sc9d6-1756057004040-5e3d0c90c409
+Cf-Cache-Status: EXPIRED
+Expires: Sun, 24 Aug 2025 21:36:44 GMT
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 97449d123c3aeaa3-ICN
+Alt-Svc: h3=":443"; ma=86400

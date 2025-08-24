@@ -1,0 +1,19 @@
+Content-Length: 1330
+Cache-Control: max-age=21600, public
+Content-Security-Policy: default-src 'self' https: data: blob:; connect-src 'self' https: data: https://typesense.svc.nvidia.com wss://*.nvidiagrid.net:* *.nvidiagrid.net https://dirms4qsy6412.cloudfront.net:*; frame-ancestors 'self' nvidia.lookbookhq.com nvidia.pathfactory.com resources.nvidia.com www.nvidia.com www.nvidia.cn; font-src 'self' https: data: https://dirms4qsy6412.cloudfront.net:*; img-src 'self' https: data: https://dirms4qsy6412.cloudfront.net:*; object-src https://www.youtube.com; script-src 'self' https: 'unsafe-inline' 'unsafe-eval' https://assets.adobedtm.com https://munchkin.marketo.net https://dirms4qsy6412.cloudfront.net:*; style-src 'self' https: 'unsafe-inline' https://dirms4qsy6412.cloudfront.net:*; worker-src 'self' https: blob: https://developer.nvidia.com https://dirms4qsy6412.cloudfront.net:*
+Content-Type: text/plain; charset=utf-8
+Etag: W/"41b3a414da0d64cf230cf8513023e36b"
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: 536369ef-4c1f-93cd-9645-833c212175cd
+X-Runtime: 0.042953
+X-Xss-Protection: 0
+Content-Encoding: gzip
+X-Edgeconnect-Midmile-Rtt: 35
+X-Edgeconnect-Origin-Mex-Latency: 207
+Date: Sun, 24 Aug 2025 17:36:42 GMT
+Vary: Accept-Encoding
+Set-Cookie: nv_country_code=KR; path=/; SameSite=Lax; secure

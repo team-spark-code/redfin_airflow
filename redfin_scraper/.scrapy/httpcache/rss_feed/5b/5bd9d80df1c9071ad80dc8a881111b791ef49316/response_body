@@ -1,0 +1,813 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8) ]><!-->
+<html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, IE=edge,chrome=1" />
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://gsai.kaist.ac.kr/xmlrpc.php">
+	<meta name='robots' content='noindex, follow' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - KAIST AI</title>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found - KAIST AI" />
+	<meta property="og:site_name" content="KAIST AI" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://gsai.kaist.ac.kr/#website","url":"https://gsai.kaist.ac.kr/","name":"KAIST AI","description":"KAIST 김재철AI대학원","publisher":{"@id":"https://gsai.kaist.ac.kr/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://gsai.kaist.ac.kr/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://gsai.kaist.ac.kr/#organization","name":"KAIST 김재철AI대학원","url":"https://gsai.kaist.ac.kr/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://gsai.kaist.ac.kr/#/schema/logo/image/","url":"https://gsai.kaist.ac.kr/wp-content/uploads/2019/10/GSAI_preview_image.png","contentUrl":"https://gsai.kaist.ac.kr/wp-content/uploads/2019/10/GSAI_preview_image.png","width":1200,"height":630,"caption":"KAIST 김재철AI대학원"},"image":{"@id":"https://gsai.kaist.ac.kr/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="KAIST AI &raquo; Feed" href="https://gsai.kaist.ac.kr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="KAIST AI &raquo; Comments Feed" href="https://gsai.kaist.ac.kr/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/gsai.kaist.ac.kr\/wp-includes\/js\/wp-emoji-release.min.js?ver=56b56e8e842ea1668da32ea65d551f72"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='dashicons-css' href='https://gsai.kaist.ac.kr/wp-includes/css/dashicons.min.css?ver=56b56e8e842ea1668da32ea65d551f72' type='text/css' media='all' />
+<link rel='stylesheet' id='post-views-counter-frontend-css' href='https://gsai.kaist.ac.kr/wp-content/plugins/post-views-counter/css/frontend.min.css?ver=1.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='thegem-preloader-css' href='https://gsai.kaist.ac.kr/wp-content/themes/thegem/css/thegem-preloader.css?ver=5.7.0' type='text/css' media='all' />
+<style id='thegem-preloader-inline-css' type='text/css'>
+
+		body:not(.compose-mode) .gem-icon-style-gradient span,
+		body:not(.compose-mode) .gem-icon .gem-icon-half-1,
+		body:not(.compose-mode) .gem-icon .gem-icon-half-2 {
+			opacity: 0 !important;
+			}
+</style>
+<link rel='stylesheet' id='thegem-reset-css' href='https://gsai.kaist.ac.kr/wp-content/themes/thegem/css/thegem-reset.css?ver=5.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='thegem-grid-css' href='https://gsai.kaist.ac.kr/wp-content/themes/thegem/css/thegem-grid.css?ver=5.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='thegem-header-css' href='https://gsai.kaist.ac.kr/wp-content/themes/thegem/css/thegem-header.css?ver=5.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='thegem-style-css' href='https://gsai.kaist.ac.kr/wp-content/themes/thegem/style.css?ver=5.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='thegem-child-style-css' href='https://gsai.kaist.ac.kr/wp-content/themes/thegem-child/style.css?ver=5.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='thegem-widgets-css' href='https://gsai.kaist.ac.kr/wp-content/themes/thegem/css/thegem-widgets.css?ver=5.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='thegem-new-css-css' href='https://gsai.kaist.ac.kr/wp-content/themes/thegem/css/thegem-new-css.css?ver=5.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='perevazka-css-css-css' href='https://gsai.kaist.ac.kr/wp-content/themes/thegem/css/thegem-perevazka-css.css?ver=5.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='thegem-google-fonts-css' href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C600%2C600italic%2C700%2C700italic%2C900%2C900italic%7CMontserrat%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%7CTaviraj%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;subset=cyrillic%2Ccyrillic-ext%2Cgreek%2Cgreek-ext%2Clatin%2Clatin-ext%2Cvietnamese%2Cthai&#038;ver=56b56e8e842ea1668da32ea65d551f72' type='text/css' media='all' />
+<link rel='stylesheet' id='thegem-custom-css' href='https://gsai.kaist.ac.kr/wp-content/themes/thegem-child/css/custom-PrsjhdXN.css?ver=5.7.0' type='text/css' media='all' />
+<style id='thegem-custom-inline-css' type='text/css'>
+.vc_custom_1565756481681{padding-top: 20px !important;padding-bottom: 30px !important;background-color: #f7f7f7 !important;}
+#page-title {background-color: #000000;padding-top: 80px;padding-bottom: 80px;}#page-title h1,#page-title .title-rich-content {color: #ffffff;}.page-title-excerpt {color: #ffffff;margin-top: 18px;}#page-title .page-title-title {margin-top: 0px;}#page-title .page-title-title .styled-subtitle.light,#page-title .page-title-excerpt .styled-subtitle.light{ font-family: var(--thegem-to-light-title-font-family); font-style: normal; font-weight: normal;}#page-title .page-title-title .title-main-menu,#page-title .page-title-excerpt .title-main-menu{ font-family: var(--thegem-to-menu-font-family); font-style: var(--thegem-to-menu-font-style); font-weight: var(--thegem-to-menu-font-weight); text-transform: var(--thegem-to-menu-text-transform); font-size: var(--thegem-to-menu-font-size); line-height: var(--thegem-to-menu-line-height); letter-spacing: var(--thegem-to-menu-letter-spacing, 0);}#page-title .page-title-title .title-main-menu.light,#page-title .page-title-excerpt .title-main-menu.light{ font-family: var(--thegem-to-light-title-font-family); font-style: normal; font-weight: normal;}#page-title .page-title-title .title-body,#page-title .page-title-excerpt .title-body{ font-family: var(--thegem-to-body-font-family); font-style: var(--thegem-to-body-font-style); font-weight: var(--thegem-to-body-font-weight); text-transform: var(--thegem-to-body-text-transform, none); font-size: var(--thegem-to-body-font-size); line-height: var(--thegem-to-body-line-height); letter-spacing: var(--thegem-to-body-letter-spacing);}#page-title .page-title-title .title-body.light,#page-title .page-title-excerpt .title-body.light{ font-family: var(--thegem-to-light-title-font-family); font-style: normal; font-weight: normal;}#page-title .page-title-title .title-tiny-body,#page-title .page-title-excerpt .title-tiny-body{ font-family: var(--thegem-to-body-tiny-font-family); font-style: var(--thegem-to-body-tiny-font-style); font-weight: var(--thegem-to-body-tiny-font-weight); text-transform: var(--thegem-to-body-tiny-text-transform, none); font-size: var(--thegem-to-body-tiny-font-size); line-height: var(--thegem-to-body-tiny-line-height); letter-spacing: var(--thegem-to-body-tiny-letter-spacing);}#page-title .page-title-title .title-tiny-body.light,#page-title .page-title-excerpt .title-tiny-body.light{ font-family: var(--thegem-to-light-title-font-family); font-style: normal; font-weight: normal;}.page-title-inner,body .breadcrumbs{padding-left: 0px;padding-right: 0px;}body .page-title-block .breadcrumbs-container{	text-align: center;}.page-breadcrumbs ul li a,.page-breadcrumbs ul li:not(:last-child):after{	color: #99A9B5FF;}.page-breadcrumbs ul li{	color: #3C3950FF;}.page-breadcrumbs ul li a:hover{	color: #3C3950FF;}.block-content {padding-top: 135px;}.block-content:last-of-type {padding-bottom: 110px;}#top-area {	display: block;}@media (max-width: 991px) {#page-title {padding-top: 80px;padding-bottom: 80px;}.page-title-inner, body .breadcrumbs{padding-left: 0px;padding-right: 0px;}.page-title-excerpt {margin-top: 18px;}#page-title .page-title-title {margin-top: 0px;}.block-content {}.block-content:last-of-type {}#top-area {	display: block;}}@media (max-width: 767px) {#page-title {padding-top: 80px;padding-bottom: 80px;}.page-title-inner,body .breadcrumbs{padding-left: 0px;padding-right: 0px;}.page-title-excerpt {margin-top: 18px;}#page-title .page-title-title {margin-top: 0px;}.block-content {}.block-content:last-of-type {}#top-area {	display: block;}}
+</style>
+<link rel='stylesheet' id='js_composer_front-css' href='https://gsai.kaist.ac.kr/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.10.0' type='text/css' media='all' />
+<link rel='stylesheet' id='thegem_js_composer_front-css' href='https://gsai.kaist.ac.kr/wp-content/themes/thegem/css/thegem-js_composer_columns.css?ver=5.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='thegem-additional-blog-1-css' href='https://gsai.kaist.ac.kr/wp-content/themes/thegem/css/thegem-additional-blog-1.css?ver=5.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-fancybox-css' href='https://gsai.kaist.ac.kr/wp-content/themes/thegem/js/fancyBox/jquery.fancybox.min.css?ver=5.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='thegem-vc_elements-css' href='https://gsai.kaist.ac.kr/wp-content/themes/thegem/css/thegem-vc_elements.css?ver=5.7.0' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://gsai.kaist.ac.kr/wp-includes/css/dist/block-library/style.min.css?ver=56b56e8e842ea1668da32ea65d551f72' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='searchandfilter-css' href='https://gsai.kaist.ac.kr/wp-content/plugins/search-filter/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpml-menu-item-0-css' href='https://gsai.kaist.ac.kr/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='bsf-Defaults-css' href='https://gsai.kaist.ac.kr/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=56b56e8e842ea1668da32ea65d551f72' type='text/css' media='all' />
+<script type="text/javascript">function fullHeightRow() {
+			var fullHeight,
+				offsetTop,
+				element = document.getElementsByClassName('vc_row-o-full-height')[0];
+			if (element) {
+				fullHeight = window.innerHeight;
+				offsetTop = window.pageYOffset + element.getBoundingClientRect().top;
+				if (offsetTop < fullHeight) {
+					fullHeight = 100 - offsetTop / (fullHeight / 100);
+					element.style.minHeight = fullHeight + 'vh'
+				}
+			}
+		}</script><!--[if lt IE 9]>
+<script type="text/javascript" src="https://gsai.kaist.ac.kr/wp-content/themes/thegem/js/html5.js?ver=5.7.0" id="html5-js"></script>
+<![endif]-->
+<script type="text/javascript" src="https://gsai.kaist.ac.kr/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://gsai.kaist.ac.kr/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://gsai.kaist.ac.kr/xmlrpc.php?rsd" />
+
+<meta name="generator" content="WPML ver:4.7.6 stt:1,29;" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<link rel="icon" href="https://gsai.kaist.ac.kr/wp-content/uploads/2019/08/favicon_AI.png" sizes="32x32" />
+<link rel="icon" href="https://gsai.kaist.ac.kr/wp-content/uploads/2019/08/favicon_AI.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://gsai.kaist.ac.kr/wp-content/uploads/2019/08/favicon_AI.png" />
+<meta name="msapplication-TileImage" content="https://gsai.kaist.ac.kr/wp-content/uploads/2019/08/favicon_AI.png" />
+<script>if(document.querySelector('[data-type="vc_custom-css"]')) {document.head.appendChild(document.querySelector('[data-type="vc_custom-css"]'));}</script>		<style type="text/css" id="wp-custom-css">
+			@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR:100,300,400,500,700,900&display=swap&subset=korean');
+
+@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans&display=swap&subset=korean');
+
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+@font-face { font-family: 'WONDotum'; src:url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/WONDotum.woff') format('woff'); font-weight: normal; font-style: normal; }
+
+#primary-menu.no-responsive > li > a {
+font-family: 'Noto Sans KR', sans-serif;
+
+}
+body, .portfolio.background-style-gray .portfolio-item:hover .wrap > .caption .info, .portfolio.background-style-dark .portfolio-item:not(:hover) .wrap > .caption .info, .gem-gallery-hover-zooming-blur .gem-gallery-preview-carousel-wrap .gem-gallery-item .gem-gallery-caption, .gem-gallery-grid.hover-zooming-blur .gallery-item .overlay .title, .gem-gallery-grid.hover-zooming-blur .gallery-item .overlay .subtitle, .widget.widget_contacts a:hover, .widget_recent_comments a, .digram-line-box .skill-title, .shipping_calculator .shipping-calculator-button, .widget_shopping_cart_content ul.cart_list li a, .shop-widget-area .gem-products-title a, .woocommerce-page ul.product_list_widget li a, .portfolio.hover-zooming-blur .portfolio-item .image .overlay .links .caption .subtitle, .portfolio.hover-zooming-blur .portfolio-item .image .overlay .links .caption .info, .portfolio.hover-horizontal-sliding .overlay .links .caption .info span.sep, .version-new.news-grid.hover-new-zooming-blur .portfolio-item .image .overlay .links .caption .subtitle, .version-new.news-grid.hover-new-zooming-blur .portfolio-item .image .overlay .links .caption .post-date, .version-new.news-grid.hover-new-zooming-blur .portfolio-item .image .overlay .links .caption .grid-post-meta a.icon.share:before, .version-new.news-grid.hover-new-zooming-blur .portfolio-item .image .overlay .links .portfolio-sharing-pane .socials-item, .version-new.news-grid.hover-new-zooming-blur .portfolio-item .links .caption .grid-post-meta .comments-link a, .version-default.news-grid.hover-default-zooming-blur .portfolio-item .image .overlay .links .caption .subtitle, .version-default.news-grid.hover-default-zooming-blur .portfolio-item .image .overlay .links .caption .post-date, .version-new.news-grid .portfolio-item .wrap > .caption .grid-post-meta .comments-link a, .version-new.news-grid .portfolio-item .wrap > .caption .grid-post-meta .zilla-likes, .version-new.news-grid .portfolio-item .wrap > .caption .grid-post-meta .grid-post-share .icon, #colophon .jtwt_tweet:before, #colophon .project_info-item-style-1 .project_info-item .icon, #colophon .widget_recent_comments li:before, #colophon .widget_recent_entries ul li:before, #colophon .portfolio-filters a .icon, #colophon .comment-form label:before, #colophon .socials-sharing a:after, #colophon .widget_archive li:before, #colophon .widget_nav_menu ul.menu li > a:before, #colophon .widget_submenu > div > ul li > a:before, #colophon .widget_categories > ul li > a:before, #colophon .widget_product_categories > ul li > a:before, #colophon .widget_product_categories > ul li:before, #colophon .widget_pages > ul li > a:before, #colophon .widget_meta li:before, #colophon .widget_rss li:before, #colophon .project_info-item-style-2 .icon, #colophon .gem_accordion_header, #colophon .widget_layered_nav ul li a:before, #colophon .widget .gem-contacts-address:before, #colophon .widget .gem-contacts-phone:before, #colophon .widget .gem-contacts-fax:before, #colophon .widget .gem-contacts-email:before, #colophon .widget .gem-contacts-website:before, #colophon .widget_meta li:before, #colophon .widget .mc-text.small-body, #colophon .widget.widget_search input, #colophon #mc4wp_email, blockquote, .widget_price_filter .price_label span, .gem-quote.gem-quote-style-default blockquote, .gem-quote.gem-quote-style-1, .wpcf7-form.gem-contact-form-white span, .wpcf7-form.gem-contact-form-white .wpcf7-list-item-label, .wpcf7-form.gem-contact-form-dark span, .wpcf7-form.gem-contact-form-dark .wpcf7-list-item-label, .blog-style-styled_list1 .post-content, .blog-style-styled_list2 .post-content, .blog-style-timeline .post-content, body .thegem_testimonial a .gem-testimonial-text {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+span.wpml-ls-native {
+	  font-family: 'Noto Sans KR', sans-serif;
+}
+
+body h1, body h2, body h3, body h4, body h5, body h6, body .title-h1, body .title-h2, body .title-h3, body .title-h4, body .title-h5, body .title-h6, body h1 .light, body h2 .light, body h3 .light, body h4 .light, body h5 .light, body h6 .light, body .title-h1 .light, body .title-h2 .light, body .title-h3 .light, body .title-h4 .light, body .title-h5 .light, body .title-h6 .light, body .title-xlarge, body .title-xlarge .light, #primary-menu.no-responsive li, .woocommerce .woocommerce-checkout-one-page #order_review table thead th, .woocommerce .woocommerce-checkout.woocommerce-checkout-one-page .shop_table.woocommerce-checkout-payment-total th, #primary-menu.no-responsive > li > a, .widget_nav_menu > div > ul > li > a, .widget_submenu > div > ul > li > a, .widget_pages > ul > li > a, .widget_categories > ul > li > a, body #primary-menu.no-responsive > li.megamenu-enable > ul > li span.megamenu-column-header a {
+font-family: 'Noto Sans KR', sans-serif;
+
+}
+
+
+p {
+font-family: 'Noto Sans KR', sans-serif;}
+
+/*top-area-border */
+.top-area {
+    border-bottom: 1px solid #f4f4f4;
+}
+
+/*
+#colophon .wpcf7-form.gem-contact-form-white input[type="text"]{
+	  border: 1px solid #f7f7f7;
+    background-color: #dedede;
+}
+#colophon .wpcf7-form.gem-contact-form-white input[type="email"]{
+	  border: 1px solid #f7f7f7;
+    background-color: #dedede;
+}
+
+#colophon .wpcf7-form.gem-contact-form-white textarea{
+	  border: 1px solid #f7f7f7;
+    background-color: #dedede;
+}
+*/
+
+.footer-form .form-line.button input {
+    width: 100%;
+    border: 2px solid #01438f!important;
+    background: #01438f !important;
+    color: #ffffff !important;
+    border-radius: 3px !important;
+    line-height: 36px !important;
+    padding: 0 !important;
+}
+
+#footer-nav {
+    border-top-color: #e6e6e6;
+}
+
+#colophon {
+    position: relative;
+    padding: 40px 0 0px;
+    background-position: 50% 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#footer-nav {
+    padding: 10px 0;
+}
+
+
+.footer-site-info {
+    font-size: 82.86%;
+}
+
+
+.portfolio.hover-new-horizontal-sliding .portfolio-item .image .overlay .links .caption .info a{
+	color: #ffffff;
+}
+
+.wpcf7-form.gem-contact-form-white textarea {
+    height: 155px;
+}
+
+/* site logo & header height */
+img.default {
+    width: 170px !important;
+}
+
+div#site-header-wrapper {
+    height: 90px;
+}
+
+.portfolio.hover-new-horizontal-sliding .portfolio-item .image .overlay .links .caption .info a {
+    padding: 3px 8px 3px 8px;
+    background-color: #01438f;
+    color: #ffffff;
+}
+
+.custom-title-title {
+    visibility: hidden;
+}
+/* search & filter */
+
+.wpb_text_column ul li:before{
+    display: none !important;
+}
+
+/*
+.searchandfilter ul {
+  display: grid !important;
+}
+*/
+
+.searchandfilter li{
+	display:block !important;
+}
+
+
+.blog-style-default article .post-image, .blog-post-image {
+    text-align: center;
+    display: none;
+}
+
+.blog-style-default .post-meta-right {
+    display: none !important;
+}
+
+li.cat-item.cat-item-1 {
+    display: none !important;
+}
+
+@media (min-width: 1212px){
+.col-lg-9 {
+    width: 65%;
+}}
+
+
+@media (min-width: 1212px){
+.col-lg-3 {
+    width: 35%;
+}}
+
+span.light {
+    font-size: 20px !important;
+}
+
+span.entry-title-date {
+    display: none !important;
+}
+
+.summary {
+    font-size: 14px;
+}
+
+.searchandfilter label {
+    font-size: 14px;
+    line-height: 25px;
+}
+
+.lptw-advanced-table.responsive-backgrounds-show .material-light-blue th {
+    font-size: 15px;
+    color: #fbfbfb;
+    background-color: #01438f;
+    font-weight: 600;
+}
+
+.lptw-advanced-table .material-light-blue th, .lptw-advanced-table .material-light-blue td {
+    font-size: 14px;
+}
+
+.header-layout-overlay #primary-menu.no-responsive > li > a, .mobile-menu-layout-overlay #primary-navigation.responsive #primary-menu > li > a, .page-additional-menu.header-layout-overlay .nav-menu.no-responsive > li > a, .page-additional-menu.mobile-menu-layout-overlay .primary-navigation.responsive .nav-menu > li > a {
+   font-family: 'Noto Sans KR', sans-serif !important;
+}
+
+#colophon {
+    display: none !important;
+}
+/*유지보수 202001*/
+.main-content{
+	background:#fff;
+}
+/*navi-btn*/
+.main-content > .navi-btn-container{
+	max-width: 1212px;
+  margin: 0 auto;
+  padding: 0 21px;
+}
+.navi-btn-container p{
+	margin-bottom:0;
+}
+.navi-btn-container p a{
+	color:#212121;
+	display:flex;
+	width:100%;
+	border-top:1px solid #ddd;
+	padding:7.5px 0 ;
+}
+.navi-btn-container p:last-child a{
+	border-bottom:1px solid #ddd;
+}
+.navi-btn-container p a span:first-child{
+	display: inline-block;
+  width: 7%;
+	background: url('/wp-content/uploads/2020/01/ar-up01.png') no-repeat top 10px right 23px;
+}
+
+.navi-btn-container p.prev-btn span:first-child{
+	background: url('/wp-content/uploads/2020/01/ar-down01.png') no-repeat top 10px right 23px;
+}
+	/*list-btn*/
+.list-btn-container{
+	max-width: 1212px;
+  margin: 0 auto;
+  padding: 50px 21px;
+	text-align:right;
+}
+.list-btn-container a{
+	display: inline-block;
+  padding: 21px;
+  background: #ddd;
+  color: #212121ad;
+}
+
+.footer-logo .vc_single_image-img {width: 200px !important;}
+
+.footer-wrap .vc_row-fluid {
+	display: flex;
+}
+.footer-wrap .vc_row-fluid .vc_col-sm-4 {
+	display: flex;
+	align-items: end;
+}
+@media screen and (max-width: 1024px) {
+	.footer-wrap .vc_row-fluid {
+		flex-wrap: wrap;
+	}
+	.footer-wrap .vc_row-fluid .vc_col-sm-2 {
+		width: 25%;
+	}
+	.footer-wrap .vc_row-fluid .vc_col-sm-6 {
+		width: 75%;
+	}
+	.footer-wrap .vc_row-fluid .vc_col-sm-4 {
+		width: 100%;
+	}
+}
+@media screen and (max-width: 767px) {
+	
+	.footer-wrap .vc_row-fluid .vc_col-sm-2,
+	.footer-wrap .vc_row-fluid .vc_col-sm-6  {
+		width: 100%;
+	}
+}
+
+html[lang="en-US"] #primary-menu.no-responsive > li > a {
+	padding: 0px 5px;
+	font-size: 12px;
+}		</style>
+		<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+</head>
+
+
+<body class="error404 fullscreen-search wpb-js-composer js-comp-ver-6.10.0 vc_responsive">
+
+	<script type="text/javascript">
+		var gemSettings = {"isTouch":"","forcedLasyDisabled":"","tabletPortrait":"1","tabletLandscape":"","topAreaMobileDisable":"","parallaxDisabled":"","fillTopArea":"","themePath":"https:\/\/gsai.kaist.ac.kr\/wp-content\/themes\/thegem","rootUrl":"https:\/\/gsai.kaist.ac.kr","mobileEffectsEnabled":"","isRTL":""};
+		(function() {
+    function isTouchDevice() {
+        return (('ontouchstart' in window) ||
+            (navigator.MaxTouchPoints > 0) ||
+            (navigator.msMaxTouchPoints > 0));
+    }
+
+    window.gemSettings.isTouch = isTouchDevice();
+
+    function userAgentDetection() {
+        var ua = navigator.userAgent.toLowerCase(),
+        platform = navigator.platform.toLowerCase(),
+        UA = ua.match(/(opera|ie|firefox|chrome|version)[\s\/:]([\w\d\.]+)?.*?(safari|version[\s\/:]([\w\d\.]+)|$)/) || [null, 'unknown', 0],
+        mode = UA[1] == 'ie' && document.documentMode;
+
+        window.gemBrowser = {
+            name: (UA[1] == 'version') ? UA[3] : UA[1],
+            version: UA[2],
+            platform: {
+                name: ua.match(/ip(?:ad|od|hone)/) ? 'ios' : (ua.match(/(?:webos|android)/) || platform.match(/mac|win|linux/) || ['other'])[0]
+                }
+        };
+            }
+
+    window.updateGemClientSize = function() {
+        if (window.gemOptions == null || window.gemOptions == undefined) {
+            window.gemOptions = {
+                first: false,
+                clientWidth: 0,
+                clientHeight: 0,
+                innerWidth: -1
+            };
+        }
+
+        window.gemOptions.clientWidth = window.innerWidth || document.documentElement.clientWidth;
+        if (document.body != null && !window.gemOptions.clientWidth) {
+            window.gemOptions.clientWidth = document.body.clientWidth;
+        }
+
+        window.gemOptions.clientHeight = window.innerHeight || document.documentElement.clientHeight;
+        if (document.body != null && !window.gemOptions.clientHeight) {
+            window.gemOptions.clientHeight = document.body.clientHeight;
+        }
+    };
+
+    window.updateGemInnerSize = function(width) {
+        window.gemOptions.innerWidth = width != undefined ? width : (document.body != null ? document.body.clientWidth : 0);
+    };
+
+    userAgentDetection();
+    window.updateGemClientSize(true);
+
+    window.gemSettings.lasyDisabled = window.gemSettings.forcedLasyDisabled || (!window.gemSettings.mobileEffectsEnabled && (window.gemSettings.isTouch || window.gemOptions.clientWidth <= 800));
+})();
+		(function() {
+    if (window.gemBrowser.name == 'safari') {
+        try {
+            var safariVersion = parseInt(window.gemBrowser.version);
+        } catch(e) {
+            var safariVersion = 0;
+        }
+        if (safariVersion >= 9) {
+            window.gemSettings.parallaxDisabled = true;
+            window.gemSettings.fillTopArea = true;
+        }
+    }
+})();
+		(function() {
+    var fullwithData = {
+        page: null,
+        pageWidth: 0,
+        pageOffset: {},
+        fixVcRow: true,
+        pagePaddingLeft: 0
+    };
+
+    function updateFullwidthData() {
+        fullwithData.pageOffset = fullwithData.page.getBoundingClientRect();
+        fullwithData.pageWidth = parseFloat(fullwithData.pageOffset.width);
+        fullwithData.pagePaddingLeft = 0;
+
+        if (fullwithData.page.className.indexOf('vertical-header') != -1) {
+            fullwithData.pagePaddingLeft = 45;
+            if (fullwithData.pageWidth >= 1600) {
+                fullwithData.pagePaddingLeft = 360;
+            }
+            if (fullwithData.pageWidth < 980) {
+                fullwithData.pagePaddingLeft = 0;
+            }
+        }
+    }
+
+    function gem_fix_fullwidth_position(element) {
+        if (element == null) {
+            return false;
+        }
+
+        if (fullwithData.page == null) {
+            fullwithData.page = document.getElementById('page');
+            updateFullwidthData();
+        }
+
+        /*if (fullwithData.pageWidth < 1170) {
+            return false;
+        }*/
+
+        if (!fullwithData.fixVcRow) {
+            return false;
+        }
+
+        if (element.previousElementSibling != null && element.previousElementSibling != undefined && element.previousElementSibling.className.indexOf('fullwidth-block') == -1) {
+            var elementParentViewportOffset = element.previousElementSibling.getBoundingClientRect();
+        } else {
+            var elementParentViewportOffset = element.parentNode.getBoundingClientRect();
+        }
+
+        /*if (elementParentViewportOffset.top > window.gemOptions.clientHeight) {
+            fullwithData.fixVcRow = false;
+            return false;
+        }*/
+
+        if (element.className.indexOf('vc_row') != -1) {
+            var elementMarginLeft = -21;
+            var elementMarginRight = -21;
+        } else {
+            var elementMarginLeft = 0;
+            var elementMarginRight = 0;
+        }
+
+        var offset = parseInt(fullwithData.pageOffset.left + 0.5) - parseInt((elementParentViewportOffset.left < 0 ? 0 : elementParentViewportOffset.left) + 0.5) - elementMarginLeft + fullwithData.pagePaddingLeft;
+        var offsetKey = window.gemSettings.isRTL ? 'right' : 'left';
+
+        element.style.position = 'relative';
+        element.style[offsetKey] = offset + 'px';
+        element.style.width = fullwithData.pageWidth - fullwithData.pagePaddingLeft + 'px';
+
+        if (element.className.indexOf('vc_row') == -1) {
+            element.setAttribute('data-fullwidth-updated', 1);
+        }
+
+        if (element.className.indexOf('vc_row') != -1 && element.className.indexOf('vc_section') == -1 && !element.hasAttribute('data-vc-stretch-content')) {
+            var el_full = element.parentNode.querySelector('.vc_row-full-width-before');
+            var padding = -1 * offset;
+            0 > padding && (padding = 0);
+            var paddingRight = fullwithData.pageWidth - padding - el_full.offsetWidth + elementMarginLeft + elementMarginRight;
+            0 > paddingRight && (paddingRight = 0);
+            element.style.paddingLeft = padding + 'px';
+            element.style.paddingRight = paddingRight + 'px';
+        }
+    }
+
+    window.gem_fix_fullwidth_position = gem_fix_fullwidth_position;
+
+    document.addEventListener('DOMContentLoaded', function() {
+        var classes = [];
+
+        if (window.gemSettings.isTouch) {
+            document.body.classList.add('thegem-touch');
+        }
+
+        if (window.gemSettings.lasyDisabled && !window.gemSettings.forcedLasyDisabled) {
+            document.body.classList.add('thegem-effects-disabled');
+        }
+    });
+
+    if (window.gemSettings.parallaxDisabled) {
+        var head  = document.getElementsByTagName('head')[0],
+            link  = document.createElement('style');
+        link.rel  = 'stylesheet';
+        link.type = 'text/css';
+        link.innerHTML = ".fullwidth-block.fullwidth-block-parallax-fixed .fullwidth-block-background { background-attachment: scroll !important; }";
+        head.appendChild(link);
+    }
+})();
+
+(function() {
+    setTimeout(function() {
+        var preloader = document.getElementById('page-preloader');
+        if (preloader != null && preloader != undefined) {
+            preloader.className += ' preloader-loaded';
+        }
+    }, window.pagePreloaderHideTime || 1000);
+})();
+	</script>
+	
+
+
+<div id="page" class="layout-fullwidth header-style-3">
+
+			<a href="#page" class="scroll-top-button"></a>
+	
+	
+		
+		<div id="site-header-wrapper"  class=" " >
+
+			
+			<div class="menu-overlay"></div>
+			<header id="site-header" class="site-header animated-header mobile-menu-layout-overlay" role="banner">
+								
+								<div class="container">
+					<div class="header-main logo-position-left header-layout-default header-style-3">
+													<div class="site-title">
+										<div class="site-logo" style="width:210px;">
+			<a href="https://gsai.kaist.ac.kr/" rel="home">
+									<span class="logo"><img src="https://gsai.kaist.ac.kr/wp-content/uploads/2019/09/kaist_ai_logo-1.svg" srcset="https://gsai.kaist.ac.kr/wp-content/uploads/2019/09/kaist_ai_logo-1.svg 1x,https://gsai.kaist.ac.kr/wp-content/uploads/2019/09/kaist_ai_logo-1.svg 2x,https://gsai.kaist.ac.kr/wp-content/uploads/2019/09/kaist_ai_logo-1.svg 3x" alt="KAIST AI" style="width:210px;" class="tgp-exclude default"/><img src="https://gsai.kaist.ac.kr/wp-content/uploads/2019/09/kaist_ai_logo-1.svg" srcset="https://gsai.kaist.ac.kr/wp-content/uploads/2019/09/kaist_ai_logo-1.svg 1x,https://gsai.kaist.ac.kr/wp-content/uploads/2019/09/kaist_ai_logo-1.svg 2x,https://gsai.kaist.ac.kr/wp-content/uploads/2019/09/kaist_ai_logo-1.svg 3x" alt="KAIST AI" style="width:160px;" class="tgp-exclude small"/></span>
+							</a>
+		</div>
+									</div>
+																								<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+										<button class="menu-toggle dl-trigger">Primary Menu<span class="menu-line-1"></span><span class="menu-line-2"></span><span class="menu-line-3"></span></button><div class="overlay-menu-wrapper"><div class="overlay-menu-table"><div class="overlay-menu-row"><div class="overlay-menu-cell">										<ul id="primary-menu" class="nav-menu styled no-responsive"><li id="menu-item-1193" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1193 megamenu-first-element"><a href="https://gsai.kaist.ac.kr/">About us</a></li>
+<li id="menu-item-1630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1630 megamenu-first-element"><a href="https://gsai.kaist.ac.kr/people/">People</a></li>
+<li id="menu-item-1195" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1195 megamenu-first-element"><a href="https://gsai.kaist.ac.kr/publication-research-year/">Publications</a></li>
+<li id="menu-item-1936" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1936 megamenu-enable megamenu-style-default megamenu-first-element"><a href="https://gsai.kaist.ac.kr/academics/">Academics</a></li>
+<li id="menu-item-8051" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8051 megamenu-first-element"><a href="https://gsai.kaist.ac.kr/non-degree-programs/">Non-degree Programs</a></li>
+<li id="menu-item-10207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10207 megamenu-first-element"><a href="https://gsai.kaist.ac.kr/education-programs/">Education Program</a></li>
+<li id="menu-item-1928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1928 megamenu-first-element"><a href="https://gsai.kaist.ac.kr/admission-2/">Admission</a></li>
+<li id="menu-item-1599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1599 megamenu-first-element"><a href="https://gsai.kaist.ac.kr/notice/">Notice</a></li>
+<li id="menu-item-1922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1922 megamenu-first-element"><a href="https://gsai.kaist.ac.kr/contact/">Contact</a></li>
+<li id="menu-item-wpml-ls-62-en" class="menu-item wpml-ls-slot-62 wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-has-children menu-item-wpml-ls-62-en megamenu-first-element"><a title="Switch to English" href="https://gsai.kaist.ac.kr/"><img
+            class="wpml-ls-flag"
+            src="https://gsai.kaist.ac.kr/wp-content/uploads/flags/usa_flag.png"
+            alt=""
+            
+            
+    /><span class="wpml-ls-native" lang="en">English</span></a>
+<ul class="sub-menu styled ">
+	<li id="menu-item-wpml-ls-62-ko" class="menu-item wpml-ls-slot-62 wpml-ls-item wpml-ls-item-ko wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-62-ko megamenu-first-element"><a title="Switch to 한국어" href="https://gsai.kaist.ac.kr/?lang=ko"><img
+            class="wpml-ls-flag"
+            src="https://gsai.kaist.ac.kr/wp-content/plugins/sitepress-multilingual-cms/res/flags/ko.png"
+            alt=""
+            
+            
+    /><span class="wpml-ls-native" lang="ko">한국어</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-search "><a href="#"></a><div class="minisearch "><form role="search" id="searchform" class="sf" action="https://gsai.kaist.ac.kr/" method="GET"><input id="searchform-input" class="sf-input" type="text" placeholder="Search..." name="s"><span class="sf-submit-icon"></span><input id="searchform-submit" class="sf-submit" type="submit" value=""></form></div></li></ul>										</div></div></div></div>									</nav>
+																										</div>
+				</div>
+							</header><!-- #site-header -->
+					</div><!-- #site-header-wrapper -->
+
+	
+	<div id="main" class="site-main">
+
+<div id="main-content" class="main-content">
+
+<div id="page-title" class="page-title-block page-title-alignment-center page-title-style-1 ">
+						
+						
+						
+						
+						
+						<div class="container"><div class="page-title-inner"><div class="page-title-title"><h1 style="color:#ffffff;">  Page not found</h1></div></div></div>
+						
+					</div>
+<div class="block-content">
+	<div class="container">
+		<div class="entry-content page-content content-none">
+			<p>It looks like nothing was found at this location. Maybe try a search?</p>
+			<form role="search" method="get" class="searchform" action="https://gsai.kaist.ac.kr/">
+	<table><tr>
+		<td><input type="text" value="" name="s" placeholder="Search..." /></td>
+		<td><div class="gem-button-container gem-button-position-inline thegem-button-68ab4daeec0b49754 searchform-submit"  ><button class="gem-button gem-button-size-medium gem-button-style-flat gem-button-text-weight-normal" data-ll-effect="drop-right-without-wrap" style="border-radius: 3px;" onmouseleave="" onmouseenter="" type="submit" value="Search">Search</button></div> </td>
+	</tr></table>
+</form>
+		</div><!-- .entry-content -->
+	</div>
+</div>
+
+</div><!-- #main-content -->
+
+
+		</div><!-- #main -->
+		<div id="lazy-loading-point"></div>
+
+												<footer class="custom-footer">
+													<div class="container"><section class="wpb-content-wrapper"><div id="vc_row-68ab4daef36f4" class="vc_row wpb_row vc_row-fluid vc_custom_1565756481681 thegem-custom-68ab4daef36c44560 vc_row-has-fill"><div class="footer-wrap wpb_column vc_column_container vc_col-sm-12 thegem-custom-68ab4daf030aa2729"><div class="vc_column-inner thegem-custom-inner-68ab4daf030ab "><div class="wpb_wrapper thegem-custom-68ab4daf030aa2729"><div class="vc_row wpb_row vc_inner vc_row-fluid thegem-custom-68ab4daf05af51239 custom-inner-column-68ab4daf05afa"><div class="wpb_column vc_column_container vc_col-sm-2 thegem-custom-68ab4daf07d704711"><div class="vc_column-inner thegem-custom-inner-68ab4daf07d71 "><div class="wpb_wrapper thegem-custom-68ab4daf07d704711">
+	
+	<div  class="wpb_single_image wpb_content_element vc_align_left   footer-logo" >
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img decoding="async" src="https://gsai.kaist.ac.kr/wp-content/uploads/2019/09/kaist_ai_logo-1.svg" class="vc_single_image-img attachment-full" alt="" title="kaist_ai_logo (1)" /></div>
+		</figure>
+	</div>
+	
+<div class="vc_empty_space"   style="height: 8px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 thegem-custom-68ab4daf089ae6022"><div class="vc_column-inner thegem-custom-inner-68ab4daf089af "><div class="wpb_wrapper thegem-custom-68ab4daf089ae6022">
+	
+		<div class="wpb_text_column wpb_content_element  thegem-vc-text thegem-custom-68ab4daf08b479654"  >
+			<div class="wpb_wrapper">
+				<p style="text-align: left; font-size: 12px;">(Seoul Campus) Kim Jaechul Graduate School of Artificial Intelligence, KAIST 85 Hoegi-ro, Dongdaemun-gu, Seoul 02455, Republic of Korea<br />
+Tel. +82-2-958-3902~5｜Fax. +82-2-958-3910</p>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-68ab4daf08b479654{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-68ab4daf08b479654{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-68ab4daf08b479654{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-68ab4daf08b479654{position: relative !important;}}</style>
+		</div>
+	
+
+	
+		<div class="wpb_text_column wpb_content_element  thegem-vc-text thegem-custom-68ab4daf08c745215"  >
+			<div class="wpb_wrapper">
+				<p style="text-align: left; font-size: 12px;">(Yangjae Industry-Academic Campus) 108, Taebong-ro, Seocho-gu, Seoul, Republic of Korea</p>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-68ab4daf08c745215{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-68ab4daf08c745215{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-68ab4daf08c745215{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-68ab4daf08c745215{position: relative !important;}}</style>
+		</div>
+	
+
+	
+		<div class="wpb_text_column wpb_content_element  thegem-vc-text thegem-custom-68ab4daf08d783638"  >
+			<div class="wpb_wrapper">
+				<p style="text-align: left; font-size: 12px;">(Seongnam Research Center) 8, Seongnam-daero 331beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea</p>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-68ab4daf08d783638{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-68ab4daf08d783638{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-68ab4daf08d783638{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-68ab4daf08d783638{position: relative !important;}}</style>
+		</div>
+	
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 thegem-custom-68ab4daf08f315018"><div class="vc_column-inner thegem-custom-inner-68ab4daf08f32 "><div class="wpb_wrapper thegem-custom-68ab4daf08f315018"><div class="vc_empty_space"   style="height: 55px"><span class="vc_empty_space_inner"></span></div>
+	
+		<div class="wpb_text_column wpb_content_element  thegem-vc-text thegem-custom-68ab4daf091239145"  >
+			<div class="wpb_wrapper">
+				<p style="font-size: 12px;">© Copyright 2019 <span style="color: #0f468a;"><a style="color: #0f468a;" href="https://gsai.kaist.ac.kr/" target="_self" rel="noopener noreferrer">KAIST AI</a></span>. Created by <span style="color: #0f468a;"><a style="color: #0f468a;" title="홈페이지 제작 업체 프레스캣" href="https://presscat.co.kr/" target="_blank" rel="noopener">PRESSCAT</a></span></p>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-68ab4daf091239145{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-68ab4daf091239145{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-68ab4daf091239145{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-68ab4daf091239145{position: relative !important;}}</style>
+		</div>
+	
+</div></div></div></div></div></div></div></div>
+</section></div>
+										</footer>
+									<footer id="colophon" class="site-footer" role="contentinfo">
+				<div class="container">
+					
+<div class="row inline-row footer-widget-area" role="complementary">
+	<div id="text-1" class="widget inline-column col-md-3 col-sm-6 col-xs-12 count-4 widget_text">			<div class="textwidget"><p><div class="clearboth"></div><style>#thegem-divider-68ab4daf0973e {margin-top: -20px !important;}</style><div id="thegem-divider-68ab4daf0973e" class="gem-divider  " style="" ></div><br />
+
+	
+		<div class="wpb_text_column wpb_content_element  thegem-vc-text thegem-custom-68ab4daf097f8150"  >
+			<div class="wpb_wrapper">
+				<p><img decoding="async" class="alignnone  wp-image-5609" src="https://gsai.kaist.ac.kr/wp-content/uploads/2021/09/imageedit_3_2186983292-300x87.png" alt="The Kim Jaechul Graduate School of AI" width="204" height="59" srcset="https://gsai.kaist.ac.kr/wp-content/uploads/2021/09/imageedit_3_2186983292-300x87.png 300w, https://gsai.kaist.ac.kr/wp-content/uploads/2021/09/imageedit_3_2186983292.png 341w" sizes="(max-width: 204px) 100vw, 204px" /></p>
+<div class="clearboth"></div><style>#thegem-divider-68ab4daf098c7 {margin-top: 50px !important;}</style><div id="thegem-divider-68ab4daf098c7" class="gem-divider  " style="" ></div>
+<p><span style="color: #a2a7ab;">TheGem is a versatile wp theme with modern creative design. Made as an ultimate toolbox of content elements, styles &amp; features, it helps people to build impressive high-performant.</span></p>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-68ab4daf097f8150{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-68ab4daf097f8150{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-68ab4daf097f8150{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-68ab4daf097f8150{position: relative !important;}}</style>
+		</div>
+	
+</p>
+</div>
+		</div><div id="custom_recent_posts-3" class="widget inline-column col-md-3 col-sm-6 col-xs-12 count-4 Custom_Recent_Posts"><h3 class="widget-title">Latest Posts</h3></div><div id="text-2" class="widget inline-column col-md-3 col-sm-6 col-xs-12 count-4 widget_text"><h3 class="widget-title">Categories</h3>			<div class="textwidget"><ul>
+<li><a href="#">Politics</a></li>
+<li><a href="#">World</a></li>
+<li><a href="#">Tech &#038; Science</a></li>
+<li><a href="#">Business</a></li>
+</ul>
+</div>
+		</div><div id="text-3" class="widget inline-column col-md-3 col-sm-6 col-xs-12 count-4 widget_text"><h3 class="widget-title">Contact Form</h3>			<div class="textwidget"><p>[contact-form-7 id=&#8221;5&#8243; title=&#8221;Contact Form Footer&#8221;]</p>
+</div>
+		</div></div><!-- .footer-widget-area -->
+				</div>
+			</footer><!-- #colophon -->
+			
+						
+			</div><!-- #page -->
+
+	
+	
+<script type="text/javascript">
+
+jQuery(document).ready(function () {
+    if(window.location.href.indexOf("?lang=ko") > -1) {
+       jQuery(".next-btn > a > span").eq(0).text("이전");
+       jQuery(".prev-btn > a > span").eq(0).text("다음");     
+       jQuery(".list-btn-container a").text("목록보기");
+       jQuery(".list-btn-container a").attr('href','/notice/?lang=ko');          
+    }
+});
+
+</script>
+<script type="text/html" id="wpb-modifications"></script><link rel='stylesheet' id='icons-fontawesome-css' href='https://gsai.kaist.ac.kr/wp-content/themes/thegem/css/icons-fontawesome.css?ver=5.7.0' type='text/css' media='all' />
+<script type="text/javascript" src="https://gsai.kaist.ac.kr/wp-content/themes/thegem/js/thegem-form-elements.js?ver=5.7.0" id="thegem-form-elements-js"></script>
+<script type="text/javascript" src="https://gsai.kaist.ac.kr/wp-content/themes/thegem/js/jquery.easing.js?ver=5.7.0" id="jquery-easing-js"></script>
+<script type="text/javascript" id="thegem-menu-init-script-js-extra">
+/* <![CDATA[ */
+var thegem_dlmenu_settings = {"ajax_url":"https:\/\/gsai.kaist.ac.kr\/wp-admin\/admin-ajax.php","backLabel":"Back","showCurrentLabel":"Show this page"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://gsai.kaist.ac.kr/wp-content/themes/thegem/js/thegem-menu_init.js?ver=5.7.0" id="thegem-menu-init-script-js"></script>
+<script type="text/javascript" src="https://gsai.kaist.ac.kr/wp-content/themes/thegem/js/thegem-header.js?ver=5.7.0" id="thegem-header-js"></script>
+<script type="text/javascript" id="thegem-scripts-js-extra">
+/* <![CDATA[ */
+var thegem_scripts_data = {"ajax_url":"https:\/\/gsai.kaist.ac.kr\/wp-admin\/admin-ajax.php","ajax_nonce":"ae95f0b079"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://gsai.kaist.ac.kr/wp-content/themes/thegem/js/functions.js?ver=5.7.0" id="thegem-scripts-js"></script>
+<script type="text/javascript" src="https://gsai.kaist.ac.kr/wp-content/themes/thegem/js/fancyBox/jquery.mousewheel.pack.js?ver=5.7.0" id="jquery-mousewheel-js"></script>
+<script type="text/javascript" src="https://gsai.kaist.ac.kr/wp-content/themes/thegem/js/fancyBox/jquery.fancybox.min.js?ver=5.7.0" id="jquery-fancybox-js"></script>
+<script type="text/javascript" src="https://gsai.kaist.ac.kr/wp-content/themes/thegem/js/fancyBox/jquery.fancybox-init.js?ver=5.7.0" id="fancybox-init-script-js"></script>
+<script type="text/javascript" src="https://gsai.kaist.ac.kr/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.7" id="page-links-to-js"></script>
+<script type="text/javascript" src="https://gsai.kaist.ac.kr/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.10.0" id="wpb_composer_front_js-js"></script>
+<script type="text/javascript" src="https://gsai.kaist.ac.kr/wp-content/themes/thegem/js/isotope.min.js?ver=5.7.0" id="isotope-js-js"></script>
+		<div id="ajax-search-params" ></div>
+			<div class="thegem-fullscreen-search "
+		 data-id="header-search" >
+		<form role="search" class="searchform sf" action="https://gsai.kaist.ac.kr/"
+			  method="GET">
+			<input class="thegem-fullscreen-searchform-input sf-input" type="text"
+				   placeholder="Start typing to search..."
+				   name="s" data-styles="">
+						<div class="sf-close"></div>
+		</form>
+		<div class="search-scroll">
+						<div class="sf-result">
+				<div class="result-sections"></div>
+			</div>
+		</div>
+
+	</div>
+	</body>
+</html>

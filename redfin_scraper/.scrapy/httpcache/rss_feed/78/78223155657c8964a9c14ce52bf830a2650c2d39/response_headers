@@ -1,0 +1,19 @@
+Date: Sun, 24 Aug 2025 17:36:43 GMT
+Content-Type: text/plain
+Cf-Ray: 97449d0ddf77311b-ICN
+Cf-Cache-Status: HIT
+Age: 283
+Cache-Control: public, max-age=7200
+Expires: Sun, 24 Aug 2025 19:36:43 GMT
+Last-Modified: Sun, 24 Aug 2025 17:27:32 GMT
+Set-Cookie: uid=lo_8aef2f34f8be; Domain=medium.com; Path=/; Expires=Mon, 24 Aug 2026 17:36:43 GMT; HttpOnly; Secure; SameSite=None
+Set-Cookie: _cfuvid=RSA8rBkAnhOjnQB7dsIJusHDjtM8c_MzMR11nLpgH0I-1756057003215-0.0.1.1-604800000; path=/; domain=.medium.com; HttpOnly; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding
+Medium-Fulfilled-By: edgy/8.15.0, valencia/main-20250819-080330-67ec5333a4
+Worker-Missing-Cookies: 1
+X-Content-Type-Options: nosniff
+X-Envoy-Upstream-Service-Time: 12
+Server: cloudflare
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

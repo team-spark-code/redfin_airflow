@@ -1,0 +1,24 @@
+Date: Sun, 24 Aug 2025 17:36:46 GMT
+Content-Type: text/plain
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Vary: Accept-Encoding
+X-Ce: dpn9
+Last-Modified: Thu, 11 Nov 2021 19:02:10 GMT
+Etag: W/"618d68b2-44"
+Expires: Sun, 08 Feb 2026 18:43:41 GMT
+Cache-Control: max-age=15552000
+X-Cdn-C: all
+Content-Encoding: gzip
+X-Sg-Cdn: 1
+X-Proxy-Cache: MISS
+X-Proxy-Cache-Info: 0 NC:000000 UP:
+Host-Header: 8441280b0c35cbc1147f8ba998a563a7
+Cf-Cache-Status: HIT
+Age: 1032785
+Speculation-Rules: "/cdn-cgi/speculation"
+Server-Timing: cfCacheStatus;desc="HIT"
+Server-Timing: cfEdge;dur=10,cfOrigin;dur=0
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2NEdm8Ipa0ueZWmdL4jf6bBJ6KSFrPJei2F2ZgnVlcH63mlBOYR7Za2d6tK5y1b%2FpZv%2Fbr4BmibzACj3EFC0PiScEzAvFJFkWRazZs%2Ft4RUZ3hg%3D"}]}
+Cf-Ray: 97449d222be61fc1-HKG
+Alt-Svc: h3=":443"; ma=86400

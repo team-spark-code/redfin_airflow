@@ -1,0 +1,21 @@
+Content-Length: 0
+Date: Sun, 24 Aug 2025 17:36:48 GMT
+Content-Type: application/rss+xml; charset=UTF-8
+Cf-Ray: 97449d2b8843d740-NRT
+Etag: "38c3d7b228d11f8032a24a4f28b85ec5"
+Expires: Sun, 24 Aug 2025 12:26:57 GMT
+Last-Modified: Sat, 23 Aug 2025 05:55:23 GMT
+Location: https://towardsdatascience.com/feed/
+Status: 301 Moved Permanently
+X-Distributor: yes
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: WP Engine
+X-Redirect-By: WordPress
+X-Cacheable: CacheAlways: feed
+Cache-Control: max-age=86400, must-revalidate
+X-Cache: HIT: 12318
+X-Orig-Cache-Control: max-age=3600
+Cf-Cache-Status: DYNAMIC
+Set-Cookie: __cf_bm=ms9fxOBbrVZK8z87mOeBwmmyE.czsgysJxVLacLrX64-1756057008-1.0.1.1-3VFb8L6wzc5hG6i.RSo2nODMwF.I37wAkKS986ExZrB8c0269EM5JXZajNiM_WKh7_Y9fXlLdK8tA62wj39PR2wCn3vD6sp6Ul5l2nSR5Vo; path=/; expires=Sun, 24-Aug-25 18:06:48 GMT; domain=.towardsdatascience.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400

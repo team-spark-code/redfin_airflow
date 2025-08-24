@@ -1,0 +1,18 @@
+Content-Length: 0
+Content-Type: text/html; charset=utf-8
+Server: CloudFront
+Date: Sun, 24 Aug 2025 17:36:48 GMT
+Location: https://www.wired.com/tag/artificial-intelligence/rss/
+Cache-Control: no-cache
+Back-Lae-Origin-Response-Start: 1756057008413
+X-Organization-Slug: wired
+X-Xid-Enabled: true
+X-Cookie-Domain: .wired.com
+X-Content-Type-Options: nosniff
+X-Ua-Device: desktop
+Via: 1.1 3e04bd2eb192dd88152d5177a42407f4.cloudfront.net (CloudFront), 1.1 b48943f684e80db270b507e5a175f6d8.cloudfront.net (CloudFront)
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Pop: ICN80-P3
+X-Amz-Cf-Pop: ICN57-P4
+X-Cache: Miss from cloudfront
+X-Amz-Cf-Id: vRHbsYUs7kYlqwMq5oTznfo3SjX600VWqgzl87LW2mD63olfCfCy0A==

@@ -1,0 +1,12 @@
+Content-Length: 60675
+Date: Sun, 24 Aug 2025 17:35:57 GMT
+Content-Type: text/html; charset=utf-8
+X-Cache-Timestamp: Sun, 24 Aug 2025 17:35:57 GMT
+X-Varnish: 4109550 3961250
+Age: 44
+Accept-Ranges: bytes
+X-Varnish-2023-Age: 44.297
+X-Varnish-2023-Ttl: 255.703
+X-Varnish-2023-Cache: HIT
+Via: 1.1 ipr-varnish-2023 (Varnish/7.4), 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

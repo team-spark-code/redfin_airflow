@@ -1,0 +1,20 @@
+Date: Sun, 24 Aug 2025 17:36:43 GMT
+Content-Type: text/xml; charset=utf-8
+Age: 145288
+Cache-Control: public, max-age=0, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch
+Vary: accept-encoding
+X-Matched-Path: /news/rss.xml
+X-Vercel-Cache: HIT
+X-Vercel-Id: icn1::pdx1::v6n9m-1756057003520-207e02abbadf
+Cf-Cache-Status: DYNAMIC
+Set-Cookie: __cf_bm=Ast.j9dqQYo_s1daQUT.WJg7aqBSt7MFU3j3AhOLhYQ-1756057003-1.0.1.1-7fUBHbD5I0ab5BtdVdAK.B5hBzmj7A9pv_xObqIZd1j00zOsjmfpVsjLgtHqvY1Q5yfZIiBjoR3TiCTomI8yhzm.gi4unDfGXhR3h0KzIpc; path=/; expires=Sun, 24-Aug-25 18:06:43 GMT; domain=.openai.com; HttpOnly; Secure; SameSite=None
+Set-Cookie: _cfuvid=B39xMLTXQHK.MU1mUnWnFGZnhJNUerGCSUG9_L0MxC8-1756057003529-0.0.1.1-604800000; path=/; domain=.openai.com; HttpOnly; Secure; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=UDHnb1lbNNgn%2FOKaSqVmJq4y4dAt4sSB3E6GB8%2FpRDjHOXNRWCJHkV4iogcbnNiFJVesmiidbrb3XY3Rs4T9BxTwGvzFe0V7Ieo1IomhRFTLZD1UNQ4EL7NFxs0%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Content-Type-Options: nosniff
+Server: cloudflare
+Cf-Ray: 97449d0fe98c306e-ICN
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

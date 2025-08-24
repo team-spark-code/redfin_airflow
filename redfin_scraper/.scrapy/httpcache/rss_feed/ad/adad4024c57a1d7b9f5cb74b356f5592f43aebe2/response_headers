@@ -1,0 +1,24 @@
+Content-Length: 22
+Date: Sun, 24 Aug 2025 17:36:43 GMT
+Content-Type: text/plain; charset=utf-8
+Cf-Ray: 97449d096881eaa3-ICN
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=14400
+Content-Disposition: inline; filename="robots.txt"
+Content-Security-Policy: script-src        'self'        'unsafe-eval'        'unsafe-inline'        https://www.googletagmanager.com/        https://static.ads-twitter.com/        https://connect.facebook.net/        https://www.google-analytics.com        https://analytics.google.com        https://client.axept.io        https://api.axept.io        https://static.axept.io/        https://vercel.live/        https://js-eu1.hs-scripts.com/        https://js-eu1.hscollectedforms.net/        https://js-eu1.hs-analytics.net/        https://js-eu1.hs-banner.com/        https://forms-eu1.hscollectedforms.net/;    style-src        'self'        'unsafe-inline'        https://www.googletagmanager.com/        https://fonts.googleapis.com/;    font-src        'self'        https://fonts.gstatic.com/;    connect-src        'self'        https://cms.mistral.ai/        https://o4507101628137472.ingest.de.sentry.io/        https://www.google-analytics.com        https://region1.google-analytics.com/        https://analytics.google.com        https://www.googletagmanager.com        https://client.axept.io        https://api.axept.io        https://forms-eu1.hscollectedforms.net/;    object-src 'none';    base-uri 'self';    form-action 'self' https://www.facebook.com/tr/;    frame-ancestors 'none';    upgrade-insecure-requests;
+Etag: "f77c87f977e0fcce05a6df46c885a129"
+Last-Modified: Thu, 21 Aug 2025 14:31:00 GMT
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Matched-Path: /robots.txt
+X-Vercel-Cache: HIT
+X-Vercel-Id: cle1::vjp9b-1756057002828-1e836380c12d
+Cf-Cache-Status: MISS
+Expires: Sun, 24 Aug 2025 21:36:43 GMT
+Accept-Ranges: bytes
+Set-Cookie: __cf_bm=KQkQC.J6eMT8_Z6VUtfyDyZrxSwea13QlyAUlAH5aic-1756057003-1.0.1.1-1uIN6XQx.snVtYObKBvCoITanaZleNzTqHAUWTEN3rYYK86gW_oJqhOo9O5TaXqUFhxk7D7txP3eOShZHkeZfSeSzbACLSvBhR4u_Ej0ry8; path=/; expires=Sun, 24-Aug-25 18:06:43 GMT; domain=.mistral.ai; HttpOnly; Secure; SameSite=None
+Set-Cookie: _cfuvid=D9yuxyKPT1637cgtBqLvwxsZirO1CmdAbwngQ0rsTLY-1756057003008-0.0.1.1-604800000; path=/; domain=.mistral.ai; HttpOnly; Secure; SameSite=None
+Vary: Accept-Encoding
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400

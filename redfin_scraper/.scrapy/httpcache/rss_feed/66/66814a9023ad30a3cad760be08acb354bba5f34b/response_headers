@@ -1,0 +1,13 @@
+Content-Length: 2721
+Server: Apple
+Content-Type: text/html
+Etag: W/"68a8b5b3-1ef7"
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Content-Security-Policy: default-src 'self' data: blob: 'unsafe-inline' 'unsafe-eval' *.apple.com *.cdn-apple.com
+X-B3-Traceid: 53b7105014fa52b4
+Content-Encoding: gzip
+Date: Sun, 24 Aug 2025 17:36:44 GMT
+Vary: Accept-Encoding

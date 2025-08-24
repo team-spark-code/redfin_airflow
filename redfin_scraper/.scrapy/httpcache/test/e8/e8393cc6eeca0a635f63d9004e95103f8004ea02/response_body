@@ -1,0 +1,11 @@
+{
+  "args": {}, 
+  "headers": {
+    "Accept-Encoding": "gzip, deflate", 
+    "Host": "httpbin.org", 
+    "User-Agent": "redfin-scraper/1.0 (+contact: sungminwoo.devops@gmail.com)", 
+    "X-Amzn-Trace-Id": "Root=1-68ab4e1f-56b6e5ad22f821bc7afd03b5"
+  }, 
+  "origin": "49.167.102.17", 
+  "url": "https://httpbin.org/get"
+}

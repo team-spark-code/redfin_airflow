@@ -1,0 +1,13 @@
+Date: Sun, 24 Aug 2025 17:36:57 GMT
+Server: nginx/1.22.1
+Content-Type: text/plain; charset=UTF-8
+Accept-Ranges: bytes
+Cache-Control: public, max-age=0
+Last-Modified: Thu, 14 Aug 2025 10:08:07 GMT
+Etag: W/"0-198a80d17a0"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Via: 1.1 www.lgresearch.ai
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: Range
+Access-Control-Expose-Headers: Content-Range

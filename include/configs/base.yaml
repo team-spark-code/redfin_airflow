@@ -1,0 +1,17 @@
+project: redfin
+timezone: Asia/Seoul
+data_root: /home/user/workspace/redfin/data
+
+rss:
+  per_request_delay: 0.5
+  concurrent_requests: 8
+
+vectorstore:
+  collection: redfin_news_en
+  embedder: openai        # or local
+  sentence_model: all-MiniLM-L6-v2
+
+report:
+  daily_hour: 8
+  weekly_hour: 9
+  monthly_hour: 9

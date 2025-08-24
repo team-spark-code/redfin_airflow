@@ -1,0 +1,13 @@
+Strict-Transport-Security: max-age=86400; includeSubDomains
+Location: https://blog.research.google/robots.txt
+Content-Type: text/html; charset=UTF-8
+Content-Encoding: gzip
+Date: Sun, 24 Aug 2025 17:36:41 GMT
+Expires: Sun, 24 Aug 2025 17:36:41 GMT
+Cache-Control: private, max-age=0
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+X-Xss-Protection: 1; mode=block
+Server: GSE
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

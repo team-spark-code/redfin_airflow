@@ -1,0 +1,17 @@
+Content-Type: application/rss+xml; charset=UTF-8
+Date: Sun, 24 Aug 2025 17:36:22 GMT
+Server-Timing: a8c-cdn, dc;desc=nrt, cache;desc=STALE;dur=2.0
+X-Ac: 1.nrt _atomic_bur STALE
+Content-Encoding: gzip
+Cf-Ray: 97449c8a7aca0dbb-ICN
+Cf-Cache-Status: DYNAMIC
+Etag: W/"17d28b2580300cdd1beb39e4c7c7c4cf"
+Last-Modified: Fri, 22 Aug 2025 20:24:21 GMT
+Link: <https://www.redfin.com/news/wp-json/>; rel="https://api.w.org/", <https://www.redfin.com/news/>; rel="canonical"
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Cookie
+Server: cloudflare
+X-Cache: Miss from cloudfront
+Via: 1.1 013a9ec825a751410eced78024a9ae1a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ICN57-P2
+X-Amz-Cf-Id: eKdSAm7TJ3gVb6Gpev9mSkl4Dy4TDerOJJDqPi3RAF4jRvLbL_FRRA==

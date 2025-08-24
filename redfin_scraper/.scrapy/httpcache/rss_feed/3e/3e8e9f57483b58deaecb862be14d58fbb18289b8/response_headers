@@ -1,0 +1,20 @@
+Content-Type: text/html; charset=utf-8
+Server: CloudFront
+Date: Sun, 24 Aug 2025 17:36:50 GMT
+Model-Name: unknown
+Modified-At: 1756057010
+Cache-Control: stale-while-revalidate=60, stale-if-error=86400, s-maxage=600
+Back-Lae-Origin-Response-Start: 1756057010875
+X-Organization-Slug: wired
+X-Xid-Enabled: true
+X-Cookie-Domain: .wired.com
+X-Content-Type-Options: nosniff
+X-Ua-Device: desktop
+Via: 1.1 016853c9defac52f720b1a683b9848aa.cloudfront.net (CloudFront), 1.1 b48943f684e80db270b507e5a175f6d8.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ICN80-P3
+X-Amz-Cf-Pop: ICN57-P4
+Content-Encoding: gzip
+Vary: accept-encoding
+X-Cache: Error from cloudfront
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: 5ecezjywOcKktMJd8o4gY9K9d2OkrUUgwbiW4iB10KZmK6IaZ-WAkA==

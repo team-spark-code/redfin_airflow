@@ -1,0 +1,15 @@
+Content-Type: text/html; charset=utf-8
+Content-Security-Policy: frame-ancestors 'self' https://*.ibm.com https://ibm.com https://research.ibm.com; upgrade-insecure-requests
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1
+Date: Sun, 24 Aug 2025 17:36:45 GMT
+Etag: "sibdwsm9ek3wp"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: private
+Set-Cookie: 708650a6bc8d991278434dc9ee4329db=e5f0e6504a7c6e76756fea5288d5f3bd; path=/; HttpOnly; Secure; SameSite=None
+X-Cache: Error from cloudfront
+Via: 1.1 6c2d36902aa2beb329c88167d0ba006c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: TLV50-C1
+X-Amz-Cf-Id: zxwHXDpAdooZK9dN-rgCIGbSkEK7iiMdLIDFjInDFVKC5T7OxK9OgA==

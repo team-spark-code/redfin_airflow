@@ -1,0 +1,20 @@
+Date: Sun, 24 Aug 2025 17:36:47 GMT
+Content-Type: text/plain; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Link: <https://towardsdatascience.com/wp-json/>; rel="https://api.w.org/"
+X-Distributor: yes
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: WP Engine
+X-Robots-Tag: noindex, follow
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=14400, must-revalidate
+X-Cache: MISS
+Last-Modified: Sun, 24 Aug 2025 15:24:06 GMT
+Cf-Cache-Status: HIT
+Set-Cookie: __cf_bm=dYm4fgf.nEkwoLHYhPuOSJhDVpcNVGGkiWz44YX_3MI-1756057007-1.0.1.1-KEkrlQP5sjLTpiH18U4Kde_7JOgLfKn1qk5IPvttw_K0R5gQpgJBNBRRLvuQGvpWJCO6aeo1a.iNwjMWQvbxWeV5vlRrAkd3NEgdX1snv0E; path=/; expires=Sun, 24-Aug-25 18:06:47 GMT; domain=.towardsdatascience.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 97449d261faad740-NRT
+Alt-Svc: h3=":443"; ma=86400

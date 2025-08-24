@@ -1,0 +1,16 @@
+Content-Length: 90381
+Content-Type: application/rss+xml; charset=utf-8
+Last-Modified: Thu, 14 Aug 2025 16:00:00 GMT
+X-Content-Type-Options: nosniff
+Referrer-Policy: origin-when-cross-origin
+Cross-Origin-Opener-Policy: same-origin
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: img-src 'self' blob: storage.googleapis.com/gdm-deepmind-com-prod-public/ storage.googleapis.com/deepmind-media/ *.youtube.com *.youtube-nocookie.com fonts.gstatic.com www.gstatic.com/glue/ www.gstatic.com/images/branding/ www.gstatic.com/external_hosted/mathjax/ fonts.googleapis.com i.ytimg.com www.googletagmanager.com www.google.com/pagead/ www.googleadservices.com googleads.g.doubleclick.net pagead2.googlesyndication.com *.google-analytics.com accounts.google.com www.google.com/ccm/collect services.google.com/fb/submissions/ deepmind.google auditrecording-pa.googleapis.com *.googleusercontent.com; style-src 'self' blob: storage.googleapis.com/gdm-deepmind-com-prod-public/ storage.googleapis.com/deepmind-media/ *.youtube.com *.youtube-nocookie.com fonts.gstatic.com www.gstatic.com/glue/ www.gstatic.com/images/branding/ www.gstatic.com/external_hosted/mathjax/ fonts.googleapis.com i.ytimg.com www.googletagmanager.com www.google.com/pagead/ www.googleadservices.com googleads.g.doubleclick.net pagead2.googlesyndication.com *.google-analytics.com accounts.google.com www.google.com/ccm/collect services.google.com/fb/submissions/ deepmind.google auditrecording-pa.googleapis.com 'unsafe-inline'; script-src 'self' blob: storage.googleapis.com/gdm-deepmind-com-prod-public/ storage.googleapis.com/deepmind-media/ *.youtube.com *.youtube-nocookie.com fonts.gstatic.com www.gstatic.com/glue/ www.gstatic.com/images/branding/ www.gstatic.com/external_hosted/mathjax/ fonts.googleapis.com i.ytimg.com www.googletagmanager.com www.google.com/pagead/ www.googleadservices.com googleads.g.doubleclick.net pagead2.googlesyndication.com *.google-analytics.com accounts.google.com www.google.com/ccm/collect services.google.com/fb/submissions/ deepmind.google auditrecording-pa.googleapis.com 'sha256-SR6XcgeA2cFDEloD/eo9r1kz9wRz+QXZG9m16wdUyzs='; default-src 'self' blob: storage.googleapis.com/gdm-deepmind-com-prod-public/ storage.googleapis.com/deepmind-media/ *.youtube.com *.youtube-nocookie.com fonts.gstatic.com www.gstatic.com/glue/ www.gstatic.com/images/branding/ www.gstatic.com/external_hosted/mathjax/ fonts.googleapis.com i.ytimg.com www.googletagmanager.com www.google.com/pagead/ www.googleadservices.com googleads.g.doubleclick.net pagead2.googlesyndication.com *.google-analytics.com accounts.google.com www.google.com/ccm/collect services.google.com/fb/submissions/ deepmind.google auditrecording-pa.googleapis.com
+Vary: Request-Static
+Expires: Sun, 24 Aug 2025 17:45:05 GMT
+Cache-Control: max-age=600
+Age: 100
+X-Cache-Age: 100
+X-Cloud-Trace-Context: 7aacffa7867f3d8d26e7d2025d214323
+Date: Sun, 24 Aug 2025 17:36:46 GMT
+Server: Google Frontend

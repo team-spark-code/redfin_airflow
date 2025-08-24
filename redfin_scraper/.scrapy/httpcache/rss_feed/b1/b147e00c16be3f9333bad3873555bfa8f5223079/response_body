@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/">
+
+<channel>
+	<title>Machine Learning Blog | ML@CMU | Carnegie Mellon University</title>
+	<atom:link href="https://blog.ml.cmu.edu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.ml.cmu.edu</link>
+	<description></description>
+	<lastBuildDate>Tue, 08 Jul 2025 18:57:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.15</generator>
+
+<image>
+	<url>https://blog.ml.cmu.edu/wp-content/uploads/2018/06/favicon-80x80.png</url>
+	<title>Machine Learning Blog | ML@CMU | Carnegie Mellon University</title>
+	<link>https://blog.ml.cmu.edu</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Carnegie Mellon University at ICML 2025</title>
+		<link>https://blog.ml.cmu.edu/2025/07/08/carnegie-mellon-university-at-icml-2025/</link>
+					<comments>https://blog.ml.cmu.edu/2025/07/08/carnegie-mellon-university-at-icml-2025/#respond</comments>
+		
+		<dc:creator><![CDATA[Keegan Harris]]></dc:creator>
+		<pubDate>Tue, 08 Jul 2025 18:57:50 +0000</pubDate>
+				<category><![CDATA[Educational]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<guid isPermaLink="false">https://blog.ml.cmu.edu/?p=21192</guid>
+
+					<description><![CDATA[CMU researchers are presenting 127 papers at the Forty-Second International Conference on Machine Learning (ICML 2025), held from July 13th-19th at the Vancouver Convention Center. Here is a quick overview of the areas our researchers are working on: Here are our most frequent collaborator institutions: Table of Contents Oral Papers Spotlight Papers Poster Papers Accountability, Transparency, And Interpretability Active Learning And Interactive Learning Applications Causality Chemistry, Physics, And Earth Sciences Computer Vision Deep Learning Discrete And Combinatorial Optimization Domain Adaptation And Transfer Learning Evaluation Everything Else Fairness Foundation Models Game Theory General Machine Learning Graph Neural Networks Graphical Models Health / Medicine Language, Speech And Dialog Large Language Models Learning Theory Multi-agent Online Learning And Bandits Online Learning, Active Learning And Bandits Optimization Privacy Probabilistic Methods Reinforcement Learning And Planning Representation Learning Research Priorities, Methodology, And Evaluation Robotics Safety Security Sequential Models, Time Series Social Aspects Structure Learning Supervised Learning Theory Time Series Oral Papers Expected Variational Inequalities Authors: Brian Zhang, Ioannis Anagnostides, Emanuel Tewolde, Ratip Emin Berker, Gabriele Farina, Vincent Conitzer, Tuomas Sandholm This paper introduces expected variational inequalities (EVIs), a relaxed version of variational inequalities (VIs) where the goal is to find a distribution that satisfies the VI [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<script>
+jQuery('.post-authors').width(0.33 * jQuery('.post-authors').parent().width());
+jQuery('.affiliations').width(0.33 * jQuery('.affiliations').parent().width());
+jQuery('.date').width(0.33 * jQuery('.date').parent().width());
+jQuery('.post-authors').empty();
+jQuery('.post-authors').append('<h4>Authors</h4>');
+jQuery('.post-authors').append('Keegan Harris, Naveen Raman');
+jQuery('.affiliations').append('<a href="https://www.ml.cmu.edu/" target="_blank" rel="noopener">MLD, CMU</a><br/>');
+jQuery('.doi').remove();
+ </script>
+
+
+
+<p>CMU researchers are presenting 127 papers at the Forty-Second International Conference on Machine Learning (ICML 2025), held from July 13th-19th at the Vancouver Convention Center. Here is a quick overview of the areas our researchers are working on:</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="623" src="https://blog.ml.cmu.edu/wp-content/uploads/2025/06/image-1024x623.png" alt="" class="wp-image-21219" srcset="https://blog.ml.cmu.edu/wp-content/uploads/2025/06/image-1024x623.png 1024w, https://blog.ml.cmu.edu/wp-content/uploads/2025/06/image-300x183.png 300w, https://blog.ml.cmu.edu/wp-content/uploads/2025/06/image-1536x935.png 1536w, https://blog.ml.cmu.edu/wp-content/uploads/2025/06/image-970x590.png 970w, https://blog.ml.cmu.edu/wp-content/uploads/2025/06/image-320x195.png 320w, https://blog.ml.cmu.edu/wp-content/uploads/2025/06/image-80x49.png 80w, https://blog.ml.cmu.edu/wp-content/uploads/2025/06/image.png 1962w, https://blog.ml.cmu.edu/wp-content/uploads/2025/06/image-300x183@2x.png 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Here are our most frequent collaborator institutions:</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="602" src="https://blog.ml.cmu.edu/wp-content/uploads/2025/06/image-1-1024x602.png" alt="" class="wp-image-21220" srcset="https://blog.ml.cmu.edu/wp-content/uploads/2025/06/image-1-1024x602.png 1024w, https://blog.ml.cmu.edu/wp-content/uploads/2025/06/image-1-300x176.png 300w, https://blog.ml.cmu.edu/wp-content/uploads/2025/06/image-1-1536x902.png 1536w, https://blog.ml.cmu.edu/wp-content/uploads/2025/06/image-1-970x570.png 970w, https://blog.ml.cmu.edu/wp-content/uploads/2025/06/image-1-320x188.png 320w, https://blog.ml.cmu.edu/wp-content/uploads/2025/06/image-1-80x47.png 80w, https://blog.ml.cmu.edu/wp-content/uploads/2025/06/image-1.png 1954w, https://blog.ml.cmu.edu/wp-content/uploads/2025/06/image-1-300x176@2x.png 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; }
+        h1 { text-align: center; }
+        h2 { color: #333; }
+        h3 { color: #555; margin-top: 20px; }
+        .paper { margin-bottom: 20px; }
+        .paper-title { font-weight: bold; }
+        .paper-authors { font-style: italic; margin-bottom: 10px; }
+        .oral-spotlight-space { margin-top: 10px; font-style: normal; }
+        .table-of-contents { margin-bottom: 30px; }
+        .table-of-contents ul { list-style-type: none; padding-left: 0; }
+        .table-of-contents ul ul { padding-left: 20px; }
+    </style>
+
+
+    <div class="table-of-contents">
+        <h2>Table of Contents</h2>
+        <ul>
+            <li><a href="#oral-papers">Oral Papers</a></li>
+            <li><a href="#spotlight-papers">Spotlight Papers</a></li>
+            <li><a href="#poster-papers">Poster Papers</a>
+                <ul>
+<li><a href="#accountability,-transparency,-and-interpretability">Accountability, Transparency, And Interpretability</a></li>
+<li><a href="#active-learning-and-interactive-learning">Active Learning And Interactive Learning</a></li>
+<li><a href="#applications">Applications</a></li>
+<li><a href="#causality">Causality</a></li>
+<li><a href="#chemistry,-physics,-and-earth-sciences">Chemistry, Physics, And Earth Sciences</a></li>
+<li><a href="#computer-vision">Computer Vision</a></li>
+<li><a href="#deep-learning">Deep Learning</a></li>
+<li><a href="#discrete-and-combinatorial-optimization">Discrete And Combinatorial Optimization</a></li>
+<li><a href="#domain-adaptation-and-transfer-learning">Domain Adaptation And Transfer Learning</a></li>
+<li><a href="#evaluation">Evaluation</a></li>
+<li><a href="#everything-else">Everything Else</a></li>
+<li><a href="#fairness">Fairness</a></li>
+<li><a href="#foundation-models">Foundation Models</a></li>
+<li><a href="#game-theory">Game Theory</a></li>
+<li><a href="#general-machine-learning">General Machine Learning</a></li>
+<li><a href="#graph-neural-networks">Graph Neural Networks</a></li>
+<li><a href="#graphical-models">Graphical Models</a></li>
+<li><a href="#health-/-medicine">Health / Medicine</a></li>
+<li><a href="#language,-speech-and-dialog">Language, Speech And Dialog</a></li>
+<li><a href="#large-language-models">Large Language Models</a></li>
+<li><a href="#learning-theory">Learning Theory</a></li>
+<li><a href="#multi-agent">Multi-agent</a></li>
+<li><a href="#online-learning-and-bandits">Online Learning And Bandits</a></li>
+<li><a href="#online-learning,-active-learning-and-bandits">Online Learning, Active Learning And Bandits</a></li>
+<li><a href="#optimization">Optimization</a></li>
+<li><a href="#privacy">Privacy</a></li>
+<li><a href="#probabilistic-methods">Probabilistic Methods</a></li>
+<li><a href="#reinforcement-learning-and-planning">Reinforcement Learning And Planning</a></li>
+<li><a href="#representation-learning">Representation Learning</a></li>
+<li><a href="#research-priorities,-methodology,-and-evaluation">Research Priorities, Methodology, And Evaluation</a></li>
+<li><a href="#robotics">Robotics</a></li>
+<li><a href="#safety">Safety</a></li>
+<li><a href="#security">Security</a></li>
+<li><a href="#sequential-models,-time-series">Sequential Models, Time Series</a></li>
+<li><a href="#social-aspects">Social Aspects</a></li>
+<li><a href="#structure-learning">Structure Learning</a></li>
+<li><a href="#supervised-learning">Supervised Learning</a></li>
+<li><a href="#theory">Theory</a></li>
+<li><a href="#time-series">Time Series</a></li>
+</ul>
+            </li>
+        </ul>
+    </div>
+<h2 id="oral-papers">Oral Papers</h2>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=LCbHsdtvOR" target="_blank" rel="noopener">Expected Variational Inequalities</a></p>
+        <p class="paper-authors"><b>Authors:</b> Brian Zhang, Ioannis Anagnostides, Emanuel Tewolde, Ratip Emin Berker, Gabriele Farina, Vincent Conitzer, Tuomas Sandholm</p>
+        <p class="oral-spotlight-space">This paper introduces expected variational inequalities (EVIs), a relaxed version of variational inequalities (VIs) where the goal is to find a distribution that satisfies the VI condition in expectation. While VIs are generally hard to solve, the authors show that EVIs can be solved efficiently, even under challenging, non-monotone conditions, by leveraging ideas from game theory. EVIs generalize the concept of correlated equilibria and unify various results across smooth games, constrained games, and settings with non-concave utilities, making them broadly applicable beyond traditional game-theoretic contexts.
+</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=zf9zwCRKyP" target="_blank" rel="noopener">Exploring and Mitigating Adversarial Manipulation of Voting-Based Leaderboards</a></p>
+        <p class="paper-authors"><b>Authors:</b> Yangsibo Huang, Milad Nasr, Anastasios Angelopoulos, Nicholas Carlini, Wei-Lin Chiang, Christopher A. Choquette Choo, Daphne Ippolito, Matthew Jagielski, Katherine Lee, Ken Ziyu Liu, Ion Stoica, Florian Tramer, Chiyuan Zhang</p>
+        <p class="oral-spotlight-space">This paper shows that voting-based benchmarks for evaluating LLMs (such as Chatbot Arena) can be vulnerable to adversarial manipulation if proper defenses aren’t in place. The authors show that an attacker can identify which model generated a response and then strategically vote to boost or demote specific models, altering the leaderboard with only around a thousand votes in a simulated environment. They collaborate with Chatbot Arena’s developers to propose and implement security measures such as reCAPTCHA and login requirements that significantly raise the cost of such attacks and enhance the platform&#8217;s robustness.</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=uRAgIVnAO6" target="_blank" rel="noopener">High-Dimensional Prediction for Sequential Decision Making</a></p>
+        <p class="paper-authors"><b>Authors:</b> Georgy Noarov, Ramya Ramalingam, Aaron Roth, Stephan Xie</p>
+        <p class="oral-spotlight-space">This paper presents a new algorithmic framework for making reliable, multi-dimensional forecasts in adversarial, nonstationary environments. Unlike existing online learning methods, this approach offers simultaneous performance guarantees for many agents, even when they face different objectives, act over large action spaces, or care about specific conditions (e.g. weather or route choice). The algorithm ensures low bias across many conditional events and enables each agent to achieve strong guarantees like diminishing regret. Applications include efficient solutions for online combinatorial optimization and multicalibration.</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=SyQPiZJVWY" target="_blank" rel="noopener">LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models</a></p>
+        <p class="paper-authors"><b>Authors:</b> Parshin Shojaee, Ngoc Hieu Nguyen, Kazem Meidani, Amir Barati Farimani, Khoa Doan, Chandan Reddy</p>
+        <p class="oral-spotlight-space">This paper introduces LLM-SRBench, a new benchmark designed to rigorously evaluate the ability of LLMs to discover scientific equations (rather than merely recall them from training data). Existing tests often rely on well-known equations, making it hard to tell whether models are truly reasoning or just memorizing. LLM-SRBench addresses this by including 239 challenging problems across four scientific domains, split into two categories: one that disguises familiar physics equations (LSR-Transform) and another that features fully synthetic, reasoning-driven tasks (LSR-Synth). Evaluations show that even the best current models only achieve 31.5% accuracy, highlighting the difficulty of the task and establishing LLM-SRBench as a valuable tool for driving progress in LLM-based scientific discovery.</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=kEn7Wt6Yj2" target="_blank" rel="noopener">On Differential Privacy for Adaptively Solving Search Problems via Sketching</a></p>
+        <p class="paper-authors"><b>Authors:</b> Shiyuan Feng, Ying Feng, George Li, Zhao Song, David Woodruff, Lichen Zhang</p>
+        <p class="oral-spotlight-space">This paper explores how to use differential privacy to protect against information leakage in adaptive search queries, a harder problem than traditional private estimation tasks. Unlike prior work that only returns numerical summaries (e.g., cost), the authors design algorithms that return actual solutions, like nearest neighbors or regression vectors, even when the inputs or queries change over time. They show how key problem parameters (like the number of approximate near neighbors or condition number of the data matrix) affect the performance of these private algorithms. This work has practical implications for AI systems that rely on private database searches or real-time regression, enabling them to provide useful results while safeguarding sensitive information from attackers.</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=Hi0SyHMmkd" target="_blank" rel="noopener">Roll the dice &amp; look before you leap: Going beyond the creative limits of next-token prediction</a></p>
+        <p class="paper-authors"><b>Authors:</b> Vaishnavh Nagarajan, Chen Wu, Charles Ding, Aditi Raghunathan</p>
+        <p class="oral-spotlight-space">This paper proposes a set of simple, abstract tasks designed to probe the creative limits of today’s language models in a controlled and measurable way. These tasks mimic real-world open-ended challenges like generating analogies or designing puzzles, where success requires discovering new connections or constructing novel patterns. The authors show that standard next-token prediction tends to be short-sighted and overly reliant on memorization, while alternative approaches like teacherless training and diffusion models produce more diverse, original outputs. They also introduce a technique called seed-conditioning, which adds randomness at the input rather than the output and can improve coherence without sacrificing creativity.</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=UeB3Hdrhda" target="_blank" rel="noopener">Training a Generally Curious Agent</a></p>
+        <p class="paper-authors"><b>Authors:</b> Fahim Tajwar, Yiding Jiang, Abitha Thankaraj, Sumaita Rahman, Zico Kolter, Jeff Schneider, Russ Salakhutdinov</p>
+        <p class="oral-spotlight-space">This paper introduces Paprika, a fine-tuning method that equips language models with general decision-making and exploration strategies, enabling them to adapt to new tasks through interaction alone (i.e. without further training). Paprika trains models on synthetic environments requiring different exploration behaviors, encouraging them to learn flexible strategies rather than memorizing solutions. To improve efficiency, it uses a curriculum learning-based approach that prioritizes tasks with high learning value, making the most of limited interaction data. Models trained with Paprika show strong transfer to completely new tasks, suggesting a promising direction for building AI agents that can learn to solve unfamiliar, sequential problems with minimal supervision.</p>
+    </div>
+<h2 id="spotlight-papers">Spotlight Papers</h2>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=u6xeKVHS6K" target="_blank" rel="noopener">GMAIL: Generative Modality Alignment for generated Image Learning</a></p>
+        <p class="paper-authors"><b>Authors:</b> Shentong Mo, Sukmin Yun</p>
+        <p class="oral-spotlight-space">Generative models can create realistic images that could help train machine learning models, but using them as if they were real images can lead to problems because of differences between the two. This paper introduces a method called GMAIL that treats real and generated images as separate types (or modalities) and aligns them in a shared latent space during training, rather than just mixing them at the pixel level. The approach fine-tunes models on generated data using a special loss to bridge the gap, then uses these aligned models to improve training on tasks like image captioning and retrieval. The results show that GMAIL improves performance on several vision-language tasks and scales well as more generated data is added.</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=FKi6yjXwCN" target="_blank" rel="noopener">LOCATE 3D: Real-World Object Localization via Self-Supervised Learning in 3D</a></p>
+        <p class="paper-authors"><b>Authors:</b> Paul McVay, Sergio Arnaud, Ada Martin, Arjun Majumdar, Krishna Murthy Jatavallabhula, Phillip Thomas, Ruslan Partsey, Daniel Dugas, Abha Gejji, Alexander Sax, Vincent-Pierre Berges, Mikael Henaff, Ayush Jain, Ang Cao, Ishita Prasad, Mrinal Kalakrishnan, Michael Rabbat, Nicolas Ballas, Mahmoud Assran, Oleksandr Maksymets, Aravind Rajeswaran, Franziska Meier</p>
+        <p class="oral-spotlight-space">LOCATE 3D is a model that can find specific objects in 3D scenes based on natural language descriptions (like “the small coffee table between the sofa and the lamp”). It achieves state-of-the-art performance on standard benchmarks and works well in real-world settings, like on robots or AR devices, by using RGB-D sensor data. A key component is 3D-JEPA, a new self-supervised learning method that uses features from 2D vision models (like CLIP or DINO) to understand 3D point clouds through masked prediction tasks. The model is trained on a newly introduced large dataset (130K+ examples), helping it generalize better across different environments. </p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=dzwUOiBlQW" target="_blank" rel="noopener">Masked Autoencoders Are Effective Tokenizers for Diffusion Models</a></p>
+        <p class="paper-authors"><b>Authors:</b> Hao Chen, Yujin Han, Fangyi Chen, Xiang Li, Yidong Wang, Jindong Wang, Ze Wang, Zicheng Liu, Difan Zou, Bhiksha Raj</p>
+        <p class="oral-spotlight-space">This paper introduces MAETok, a masked autoencoder designed to create a high-quality, semantically meaningful latent space for diffusion models. The authors show that having a well-structured latent space, meaning fewer Gaussian modes and more discriminative features, leads to better image generation without needing complex variational autoencoders. MAETok outperforms existing methods on ImageNet using just 128 tokens, and it&#8217;s also much faster: 76× quicker to train and 31× faster during inference. The key takeaway is that the structure of the latent space, not variational constraints, is what truly matters for high-quality diffusion-based generation.</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=ACzL62Jp4E" target="_blank" rel="noopener">Position: In-House Evaluation Is Not Enough. Towards Robust Third-Party Evaluation and Flaw Disclosure for General-Purpose AI</a></p>
+        <p class="paper-authors"><b>Authors:</b> Shayne Longpre, Kevin Klyman, Ruth Elisabeth Appel, Sayash Kapoor, Rishi Bommasani, Michelle Sahar, Sean McGregor, Avijit Ghosh, Borhane Blili-Hamelin, Nathan Butters, Alondra Nelson, Amit Elazari, Andrew Sellars, Casey Ellis, Dane Sherrets, Dawn Song, Harley Geiger, Ilona Cohen, Lauren McIlvenny, Madhulika Srikumar, Mark Jaycox, Markus Anderljung, Nadine Johnson, Nicholas Carlini, Nicolas Miailhe, Nik Marda, Peter Henderson, Rebecca Portnoff, Rebecca Weiss, Victoria Westerhoff, Yacine Jernite, Rumman Chowdhury, Percy Liang, Arvind Narayanan</p>
+        <p class="oral-spotlight-space">This paper highlights the lack of robust systems for identifying and reporting flaws in general-purpose AI (GPAI), especially compared to mature fields like software security. The authors propose three key solutions: (1) standardized reporting formats and engagement rules to streamline flaw reporting and triaging, (2) formal disclosure programs with legal protections for researchers (similar to bug bounties), and (3) better infrastructure for distributing flaw reports to relevant stakeholders. These steps aim to address growing risks like jailbreaks and cross-system vulnerabilities, ultimately improving the safety and accountability of GPAI systems.</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=beeNgQEfe2" target="_blank" rel="noopener">Scaling Test-Time Compute Without Verification or RL is Suboptimal</a></p>
+        <p class="paper-authors"><b>Authors:</b> Amrith Setlur, Nived Rajaraman, Sergey Levine, Aviral Kumar</p>
+        <p class="oral-spotlight-space">This paper explores how to best scale test-time compute for large language models (LLMs), comparing two strategies: (1) distilling search traces (verifier-free, or VF) and (2) using verifiers or rewards to guide learning (verifier-based, or VB). The authors show—both theoretically and through experiments—that VB methods significantly outperform VF ones when working with limited compute or data. They explain that this performance gap grows as models and tasks get more complex, especially when solution paths vary in style or quality. Ultimately, the paper argues that verification is essential for effectively scaling LLM performance, especially for reasoning tasks.</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=oa7MYAO6h6" target="_blank" rel="noopener">ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference</a></p>
+        <p class="paper-authors"><b>Authors:</b> Hanshi Sun, Li-Wen Chang, Wenlei Bao, Size Zheng, Ningxin Zheng, Xin Liu, Harry Dong, Yuejie Chi, Beidi Chen</p>
+        <p class="oral-spotlight-space">As long-context LLMs become more common, their growing memory demands during inference slow down performance, especially due to the expanding key-value (KV) cache. This paper introduces ShadowKV, a system that significantly improves throughput by compressing the key cache using low-rank representations and offloading the value cache without major latency costs. It reconstructs only the necessary KV pairs during decoding to maintain speed and accuracy. Experiments show ShadowKV supports much larger batch sizes (up to 6×) and improves throughput by over 3× on standard hardware, all while preserving model quality across several LLMs and benchmarks.</p>
+    </div>
+<h2 id="poster-papers">Poster Papers</h2>
+<h3 id="accountability,-transparency,-and-interpretability">Accountability, Transparency, And Interpretability</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=OI3mAAY8eB" target="_blank" rel="noopener">A Versatile Influence Function for Data Attribution with Non-Decomposable Loss</a></p>
+        <p class="paper-authors"><b>Authors:</b> Junwei Deng, Weijing Tang, Jiaqi Ma</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=1SMcxxQiSL" target="_blank" rel="noopener">Massive Values in Self-Attention Modules are the Key to Contextual Knowledge Understanding</a></p>
+        <p class="paper-authors"><b>Authors:</b> Mingyu Jin, Kai Mei, Wujiang Xu, Mingjie Sun, Ruixiang Tang, Mengnan Du, Zirui Liu, Yongfeng Zhang</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=qBtomgvLwn" target="_blank" rel="noopener">Validating Mechanistic Interpretations: An Axiomatic Approach</a></p>
+        <p class="paper-authors"><b>Authors:</b> Nils Palumbo, Ravi Mangal, Zifan Wang, Saranya Vijayakumar, Corina Pasareanu, Somesh Jha</p>
+    </div>
+<h3 id="active-learning-and-interactive-learning">Active Learning And Interactive Learning</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=1RS4cPFNZ6" target="_blank" rel="noopener">Optimistic Algorithms for Adaptive Estimation of the Average Treatment Effect</a></p>
+        <p class="paper-authors"><b>Authors:</b> Ojash Neopane, Aaditya Ramdas, Aarti Singh</p>
+    </div>
+<h3 id="applications">Applications</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=NTAhi2JEEE" target="_blank" rel="noopener">Agent Workflow Memory</a></p>
+        <p class="paper-authors"><b>Authors:</b> Zhiruo Wang, Jiayuan Mao, Daniel Fried, Graham Neubig</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=W9s817KqYf" target="_blank" rel="noopener">Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale</a></p>
+        <p class="paper-authors"><b>Authors:</b> Rogerio Bonatti, Dan Zhao, Francesco Bonacci, Dillon Dupont, Sara Abdali, Yinheng Li, Yadong Lu, Justin Wagle, Kazuhito Koishida, Arthur Bucker, Lawrence Jang, Zheng Hui</p>
+    </div>
+<h3 id="causality">Causality</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=rQK6IWHdzA" target="_blank" rel="noopener">A Sample Efficient Conditional Independence Test in the Presence of Discretization</a></p>
+        <p class="paper-authors"><b>Authors:</b> Boyang Sun, Yu Yao, Xinshuai Dong, Zongfang Liu, Tongliang Liu, Yumou Qiu, Kun Zhang</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=iIPAdNq9cq" target="_blank" rel="noopener">Extracting Rare Dependence Patterns via Adaptive Sample Reweighting</a></p>
+        <p class="paper-authors"><b>Authors:</b> YIQING LI, Yewei Xia, Xiaofei Wang, Zhengming Chen, Liuhua Peng, Mingming Gong, Kun Zhang</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=Z0jnz149L1" target="_blank" rel="noopener">Isolated Causal Effects of Natural Language</a></p>
+        <p class="paper-authors"><b>Authors:</b> Victoria Lin, Louis-Philippe Morency, Eli Ben-Michael</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=W9YdVrSJIh" target="_blank" rel="noopener">Latent Variable Causal Discovery under Selection Bias</a></p>
+        <p class="paper-authors"><b>Authors:</b> Haoyue Dai, Yiwen Qiu, Ignavier Ng, Xinshuai Dong, Peter Spirtes, Kun Zhang</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=VBTHduhm4K" target="_blank" rel="noopener">Permutation-based Rank Test in the Presence of Discretization and Application in Causal Discovery with Mixed Data</a></p>
+        <p class="paper-authors"><b>Authors:</b> Xinshuai Dong, Ignavier Ng, Boyang Sun, Haoyue Dai, Guangyuan Hao, Shunxing Fan, Peter Spirtes, Yumou Qiu, Kun Zhang</p>
+    </div>
+<h3 id="chemistry,-physics,-and-earth-sciences">Chemistry, Physics, And Earth Sciences</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=fHt4Nau7FW" target="_blank" rel="noopener">Maximum Update Parametrization and Zero-Shot Hyperparameter Transfer for Fourier Neural Operators</a></p>
+        <p class="paper-authors"><b>Authors:</b> Shanda Li, Shinjae Yoo, Yiming Yang</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=d7v7RVXbNH" target="_blank" rel="noopener">Multi-Timescale Dynamics Model Bayesian Optimization for Plasma Stabilization in Tokamaks</a></p>
+        <p class="paper-authors"><b>Authors:</b> Rohit Sonker, Alexandre Capone, Andrew Rothstein, Hiro Kaga, Egemen Kolemen, Jeff Schneider</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=UlprLwWYKP" target="_blank" rel="noopener">OmniArch: Building Foundation Model for Scientific Computing</a></p>
+        <p class="paper-authors"><b>Authors:</b> Tianyu Chen, Haoyi Zhou, Ying Li, Hao Wang, Chonghan Gao, Rongye Shi, Shanghang Zhang, Jianxin Li</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=gTYzm0Qchr" target="_blank" rel="noopener">PPDiff: Diffusing in Hybrid Sequence-Structure Space for Protein-Protein Complex Design</a></p>
+        <p class="paper-authors"><b>Authors:</b> Zhenqiao Song, Tianxiao Li, Lei Li, Martin Min</p>
+    </div>
+<h3 id="computer-vision">Computer Vision</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=AjpoFnPzLd" target="_blank" rel="noopener">David and Goliath: Small One-step Model Beats Large Diffusion with Score Post-training</a></p>
+        <p class="paper-authors"><b>Authors:</b> Weijian Luo, colin zhang, Debing Zhang, Zhengyang Geng</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=w8MCYYAvQD" target="_blank" rel="noopener">From Thousands to Billions: 3D Visual Language Grounding via Render-Supervised Distillation from 2D VLMs</a></p>
+        <p class="paper-authors"><b>Authors:</b> Ang Cao, Sergio Arnaud, Oleksandr Maksymets, Jianing Yang, Ayush Jain, Ada Martin, Vincent-Pierre Berges, Paul McVay, Ruslan Partsey, Aravind Rajeswaran, Franziska Meier, Justin Johnson, Jeong Joon Park, Alexander Sax</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=AYxiZfJN9V" target="_blank" rel="noopener">GenZSL: Generative Zero-Shot Learning Via Inductive Variational Autoencoder</a></p>
+        <p class="paper-authors"><b>Authors:</b> Shiming Chen, Dingjie Fu, Salman Khan, Fahad Khan</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=6GFPnVHEKB" target="_blank" rel="noopener">Understanding Complexity in VideoQA via Visual Program Generation</a></p>
+        <p class="paper-authors"><b>Authors:</b> Cristobal Eyzaguirre, Igor Vasiljevic, Achal Dave, Jiajun Wu, Rareș Ambruș, Thomas Kollar, Juan Carlos Niebles, Pavel Tokmakov</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=FcTeo26AfZ" target="_blank" rel="noopener">Unifying 2D and 3D Vision-Language Understanding</a></p>
+        <p class="paper-authors"><b>Authors:</b> Ayush Jain, Alexander Swerdlow, Yuzhou Wang, Sergio Arnaud, Ada Martin, Alexander Sax, Franziska Meier, Katerina Fragkiadaki</p>
+    </div>
+<h3 id="deep-learning">Deep Learning</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=wQvR1LHboD" target="_blank" rel="noopener">A Theoretical Study of (Hyper) Self-Attention through the Lens of Interactions: Representation, Training, Generalization</a></p>
+        <p class="paper-authors"><b>Authors:</b> Muhammed Ustaomeroglu, Guannan Qu</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=AEHtq4xHSU" target="_blank" rel="noopener">Towards characterizing the value of edge embeddings in Graph Neural Networks</a></p>
+        <p class="paper-authors"><b>Authors:</b> Dhruv Rohatgi, Tanya Marwah, Zachary Lipton, Jianfeng Lu, Ankur Moitra, Andrej Risteski</p>
+    </div>
+<h3 id="discrete-and-combinatorial-optimization">Discrete And Combinatorial Optimization</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=jaCD2nEpyr" target="_blank" rel="noopener">EquivaMap: Leveraging LLMs for Automatic Equivalence Checking of Optimization Formulations</a></p>
+        <p class="paper-authors"><b>Authors:</b> Haotian Zhai, Connor Lawless, Ellen Vitercik, Liu Leqi</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=FeZoO7mfG7" target="_blank" rel="noopener">Faster Global Minimum Cut with Predictions</a></p>
+        <p class="paper-authors"><b>Authors:</b> Helia Niaparast, Benjamin Moseley, Karan Singh</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=bbJ0QCujU4" target="_blank" rel="noopener">Regularized Langevin Dynamics for Combinatorial Optimization</a></p>
+        <p class="paper-authors"><b>Authors:</b> Shengyu Feng, Yiming Yang</p>
+    </div>
+<h3 id="domain-adaptation-and-transfer-learning">Domain Adaptation And Transfer Learning</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=BuN4FX0iBr" target="_blank" rel="noopener">A General Representation-Based Approach to Multi-Source Domain Adaptation</a></p>
+        <p class="paper-authors"><b>Authors:</b> Ignavier Ng, Yan Li, Zijian Li, Yujia Zheng, Guangyi Chen, Kun Zhang</p>
+    </div>
+<h3 id="evaluation">Evaluation</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=9bYOqwtAud" target="_blank" rel="noopener">Copilot Arena: A Platform for Code LLM Evaluation in the Wild</a></p>
+        <p class="paper-authors"><b>Authors:</b> Wayne Chi, Valerie Chen, Anastasios Angelopoulos, Wei-Lin Chiang, Aditya Mittal, Naman Jain, Tianjun Zhang, Ion Stoica, Chris Donahue, Ameet Talwalkar</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=4ufjBV6S4I" target="_blank" rel="noopener">RAGGED: Towards Informed Design of Scalable and Stable RAG Systems</a></p>
+        <p class="paper-authors"><b>Authors:</b> Jennifer Hsia, Afreen Shaikh, Zhiruo Wang, Graham Neubig</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=BeoXADC9PW" target="_blank" rel="noopener">RBench: Graduate-level Multi-disciplinary Benchmarks for LLM &amp; MLLM Complex Reasoning Evaluation</a></p>
+        <p class="paper-authors"><b>Authors:</b> Meng-Hao Guo, Jiajun Xu, Yi Zhang, Jiaxi Song, Haoyang Peng, Yi-Xuan Deng, Xinzhi Dong, Kiyohiro Nakayama, Zhengyang Geng, Chen Wang, Bolin Ni, Guo-Wei Yang, Yongming Rao, Houwen Peng, Han Hu, Gordon Wetzstein, Shi-min Hu</p>
+    </div>
+<h3 id="everything-else">Everything Else</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=J1xVXyWv2T" target="_blank" rel="noopener">On Fine-Grained Distinct Element Estimation</a></p>
+        <p class="paper-authors"><b>Authors:</b> Ilias Diakonikolas, Daniel Kane, Jasper Lee, Thanasis Pittas, David Woodruff, Samson Zhou</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=AMB11zS6kg" target="_blank" rel="noopener">Safety Certificate against Latent Variables with Partially Unidentifiable Dynamics</a></p>
+        <p class="paper-authors"><b>Authors:</b> Haoming Jing, Yorie Nakahira</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=2qTwKMDAsD" target="_blank" rel="noopener">Understanding the Kronecker Matrix-Vector Complexity of Linear Algebra</a></p>
+        <p class="paper-authors"><b>Authors:</b> Raphael Meyer, William Swartworth, David Woodruff</p>
+    </div>
+<h3 id="fairness">Fairness</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=6YUdCt7rUR" target="_blank" rel="noopener">FDGen: A Fairness-Aware Graph Generation Model</a></p>
+        <p class="paper-authors"><b>Authors:</b> Zichong Wang, Wenbin Zhang</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=7jxa1o8rDW" target="_blank" rel="noopener">Fairness on Principal Stratum: A New Perspective on Counterfactual Fairness</a></p>
+        <p class="paper-authors"><b>Authors:</b> Haoxuan Li, Zeyu Tang, Zhichao Jiang, Zhuangyan Fang, Yue Liu, zhi geng, Kun Zhang</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=bcheYCitFy" target="_blank" rel="noopener">Is Your Model Fairly Certain? Uncertainty-Aware Fairness Evaluation for LLMs</a></p>
+        <p class="paper-authors"><b>Authors:</b> Yinong O Wang, Nivedha Sivakumar, Falaah Arif Khan, Katherine Metcalf, Adam Golinski, Natalie Mackraz, Barry-John Theobald, Luca Zappella, Nicholas Apostoloff</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=IHAnkPkoiX" target="_blank" rel="noopener">Kandinsky Conformal Prediction: Beyond Class- and Covariate-Conditional Coverage</a></p>
+        <p class="paper-authors"><b>Authors:</b> Konstantina Bairaktari, Jiayun Wu, Steven Wu</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=70YgwpIxbc" target="_blank" rel="noopener">Relative Error Fair Clustering in the Weak-Strong Oracle Model</a></p>
+        <p class="paper-authors"><b>Authors:</b> Vladimir Braverman, Prathamesh Dharangutte, Shaofeng Jiang, Hoai-An Nguyen, Chen Wang, Yubo Zhang, Samson Zhou</p>
+    </div>
+<h3 id="foundation-models">Foundation Models</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=jSoNlHD9qA" target="_blank" rel="noopener">Rethinking the Bias of Foundation Model under Long-tailed Distribution</a></p>
+        <p class="paper-authors"><b>Authors:</b> Jiahao Chen, Bin Qin, Jiangmeng Li, Hao Chen, Bing Su</p>
+    </div>
+<h3 id="game-theory">Game Theory</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=rjZ2SWjwwB" target="_blank" rel="noopener">Observation Interference in Partially Observable Assistance Games</a></p>
+        <p class="paper-authors"><b>Authors:</b> Scott Emmons, Caspar Oesterheld, Vincent Conitzer, Stuart Russell</p>
+    </div>
+<h3 id="general-machine-learning">General Machine Learning</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=svFtPVdD9t" target="_blank" rel="noopener">On the Power of Learning-Augmented Search Trees</a></p>
+        <p class="paper-authors"><b>Authors:</b> Jingbang Chen, Xinyuan Cao, Alicia Stepin, Li Chen</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=ZtX0MBT6mf" target="_blank" rel="noopener">Self-Improving Transformers Overcome Easy-to-Hard and Length Generalization Challenges</a></p>
+        <p class="paper-authors"><b>Authors:</b> Nayoung Lee, Jack Cai, Avi Schwarzschild, Kangwook Lee, Dimitris Papailiopoulos</p>
+    </div>
+<h3 id="graph-neural-networks">Graph Neural Networks</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=O3dsbpAcqJ" target="_blank" rel="noopener">CurvGAD: Leveraging Curvature for Enhanced Graph Anomaly Detection</a></p>
+        <p class="paper-authors"><b>Authors:</b> Karish Grover, Geoff Gordon, Christos Faloutsos</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=xjTrTlBbrc" target="_blank" rel="noopener">Graph World Model</a></p>
+        <p class="paper-authors"><b>Authors:</b> Tao Feng, Yexin Wu, Guanyu Lin, Jiaxuan You</p>
+    </div>
+<h3 id="graphical-models">Graphical Models</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=kyUoOI0KNJ" target="_blank" rel="noopener">A Generic Family of Graphical Models: Diversity, Efficiency, and Heterogeneity</a></p>
+        <p class="paper-authors"><b>Authors:</b> Yufei Huang, Changhu Wang, Junjie Tang, Weichi Wu, Ruibin Xi</p>
+    </div>
+<h3 id="health-/-medicine">Health / Medicine</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=ss5JNmJDkW" target="_blank" rel="noopener">Distributed Parallel Gradient Stacking(DPGS): Solving Whole Slide Image Stacking Challenge in Multi-Instance Learning</a></p>
+        <p class="paper-authors"><b>Authors:</b> Boyuan Wu, wang, Xianwei Lin, Jiachun Xu, Jikai Yu, Zhou Shicheng, Hongda Chen, Lianxin Hu</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=XWC7JXHXvo" target="_blank" rel="noopener">SUICA: Learning Super-high Dimensional Sparse Implicit Neural Representations for Spatial Transcriptomics</a></p>
+        <p class="paper-authors"><b>Authors:</b> Qingtian Zhu, Yumin Zheng, Yuling Sang, Yifan Zhan, Ziyan Zhu, Jun Ding, Yinqiang Zheng</p>
+    </div>
+<h3 id="language,-speech-and-dialog">Language, Speech And Dialog</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=HLC9eJ8RMg" target="_blank" rel="noopener">A Variational Framework for Improving Naturalness in Generative Spoken Language Models</a></p>
+        <p class="paper-authors"><b>Authors:</b> Li-Wei Chen, Takuya Higuchi, Zakaria Aldeneh, Ahmed Hussen Abdelaziz, Alexander Rudnicky</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=xnPW7yYomF" target="_blank" rel="noopener">OWLS: Scaling Laws for Multilingual Speech Recognition and Translation Models</a></p>
+        <p class="paper-authors"><b>Authors:</b> William Chen, Jinchuan Tian, Yifan Peng, Brian Yan, Chao-Han Yang, Shinji Watanabe</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=FCm4laCLiH" target="_blank" rel="noopener">Synthesizing Privacy-Preserving Text Data via Finetuning *without* Finetuning Billion-Scale LLMs</a></p>
+        <p class="paper-authors"><b>Authors:</b> Bowen Tan, Zheng Xu, Eric Xing, Zhiting Hu, Shanshan Wu</p>
+    </div>
+<h3 id="large-language-models">Large Language Models</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=9ppSGIfpzq" target="_blank" rel="noopener">Accelerating Unbiased LLM Evaluation via Synthetic Feedback</a></p>
+        <p class="paper-authors"><b>Authors:</b> Zhaoyi Zhou, Yuda Song, Andrea Zanette</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=tU8QKX4dMI" target="_blank" rel="noopener">AlphaVerus: Bootstrapping Formally Verified Code Generation through Self-Improving Translation and Treefinement</a></p>
+        <p class="paper-authors"><b>Authors:</b> Pranjal Aggarwal, Bryan Parno, Sean Welleck</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=EGrSMMj37o" target="_blank" rel="noopener">An Architecture Search Framework for Inference-Time Techniques</a></p>
+        <p class="paper-authors"><b>Authors:</b> Jon Saad-Falcon, Adrian Lafuente, Shlok Natarajan, Nahum Maru, Hristo Todorov, Etash Guha, Estefany Kelly Buchanan, Mayee Chen, Neel Guha, Christopher Re, Azalia Mirhoseini</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=19kqoNoc2N" target="_blank" rel="noopener">Data Mixing Optimization for Supervised Fine-Tuning of Large Language Models</a></p>
+        <p class="paper-authors"><b>Authors:</b> Yuan Li, Zhengzhong Liu, Eric Xing</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=OLodUbcWjB" target="_blank" rel="noopener">Demystifying Long Chain-of-Thought Reasoning</a></p>
+        <p class="paper-authors"><b>Authors:</b> Edward Yeo, Yuxuan Tong, Xinyao Niu, Graham Neubig, Xiang Yue</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=n52yyvEwPa" target="_blank" rel="noopener">GSM-$\infty$: How Do your LLMs Behave over Infinitely Increasing Reasoning Complexity and Context Length?</a></p>
+        <p class="paper-authors"><b>Authors:</b> Yang Zhou, Hongyi Liu, Zhuoming Chen, Yuandong Tian, Beidi Chen</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=FCZ3jVzmTZ" target="_blank" rel="noopener">Idiosyncrasies in Large Language Models</a></p>
+        <p class="paper-authors"><b>Authors:</b> Mingjie Sun, Yida Yin, Zhiqiu (Oscar) Xu, Zico Kolter, Zhuang Liu</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=YgfpMhNYnW" target="_blank" rel="noopener">Large Language Models are Demonstration Pre-Selectors for Themselves</a></p>
+        <p class="paper-authors"><b>Authors:</b> Jiarui Jin, Yuwei Wu, Haoxuan Li, Xiaoting He, Weinan Zhang, Yiming Yang, Yong Yu, Jun Wang, Mengyue Yang</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=zFR5aWGaUs" target="_blank" rel="noopener">Let LLM Tell What to Prune and How Much to Prune</a></p>
+        <p class="paper-authors"><b>Authors:</b> Mingzhe Yang, Sihao Lin, Changlin Li, Xiaojun Chang</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=sRJrMPu5Uu" target="_blank" rel="noopener">Memorization Sinks: Isolating Memorization during LLM Training</a></p>
+        <p class="paper-authors"><b>Authors:</b> Gaurav Ghosal, Pratyush Maini, Aditi Raghunathan</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=rmWpE3FrHW" target="_blank" rel="noopener">Optimizing Temperature for Language Models with Multi-Sample Inference</a></p>
+        <p class="paper-authors"><b>Authors:</b> Weihua Du, Yiming Yang, Sean Welleck</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=TqODUDsU4u" target="_blank" rel="noopener">Optimizing Test-Time Compute via Meta Reinforcement Finetuning</a></p>
+        <p class="paper-authors"><b>Authors:</b> Yuxiao Qu, Matthew Yang, Amrith Setlur, Lewis Tunstall, Edward Beeching, Russ Salakhutdinov, Aviral Kumar</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=YW6edSufht" target="_blank" rel="noopener">Overtrained Language Models Are Harder to Fine-Tune</a></p>
+        <p class="paper-authors"><b>Authors:</b> Jacob Mitchell Springer, Sachin Goyal, Kaiyue Wen, Tanishq Kumar, Xiang Yue, Sadhika Malladi, Graham Neubig, Aditi Raghunathan</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=p71VhJHAtq" target="_blank" rel="noopener">Reflection-Window Decoding: Text Generation with Selective Refinement</a></p>
+        <p class="paper-authors"><b>Authors:</b> Zeyu Tang, Zhenhao Chen, Xiangchen Song, Loka Li, Yunlong Deng, Yifan Shen, Guangyi Chen, Peter Spirtes, Kun Zhang</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=bzbuZ0ItBq" target="_blank" rel="noopener">Speculative Prefill: Turbocharging TTFT with Lightweight and Training-Free Token Importance Estimation</a></p>
+        <p class="paper-authors"><b>Authors:</b> Jingyu Liu, Beidi Chen, Ce Zhang</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=0ERw2196o1" target="_blank" rel="noopener">Think Smarter not Harder: Adaptive Reasoning with Inference Aware Optimization</a></p>
+        <p class="paper-authors"><b>Authors:</b> Zishun Yu, Tengyu Xu, Di Jin, Karthik Abinav Sankararaman, Yun He, Wenxuan Zhou, Zhouhao Zeng, Eryk Helenowski, Chen Zhu, Sinong Wang, Hao Ma, Han Fang</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=fUCPq5RvmH" target="_blank" rel="noopener">To Steer or Not to Steer? Mechanistic Error Reduction with Abstention for Language Models</a></p>
+        <p class="paper-authors"><b>Authors:</b> Anna Hedström, Salim I. Amoukou, Tom Bewley, Saumitra Mishra, Manuela Veloso</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=Cq1BNvHx74" target="_blank" rel="noopener">Training Software Engineering Agents and Verifiers with SWE-Gym</a></p>
+        <p class="paper-authors"><b>Authors:</b> Jiayi Pan, Xingyao Wang, Graham Neubig, Navdeep Jaitly, Heng Ji, Alane Suhr, Yizhe Zhang</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=hWYisuBbp7" target="_blank" rel="noopener">Understanding the Skill Gap in Recurrent Models: The Role of the Gather-and-Aggregate Mechanism</a></p>
+        <p class="paper-authors"><b>Authors:</b> Aviv Bick, Eric Xing, Albert Gu</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=a5Kgv47d2e" target="_blank" rel="noopener">Unlocking Post-hoc Dataset Inference with Synthetic Data</a></p>
+        <p class="paper-authors"><b>Authors:</b> Bihe Zhao, Pratyush Maini, Franziska Boenisch, Adam Dziedzic</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=jv7bF50spq" target="_blank" rel="noopener">Unnatural Languages Are Not Bugs but Features for LLMs</a></p>
+        <p class="paper-authors"><b>Authors:</b> Keyu Duan, Yiran Zhao, Zhili Feng, Jinjie Ni, Tianyu Pang, Qian Liu, Tianle Cai, Longxu Dou, Kenji Kawaguchi, Anirudh Goyal, Zico Kolter, Michael Shieh</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=bivU8fTTDo" target="_blank" rel="noopener">What Do Learning Dynamics Reveal About Generalization in LLM Mathematical Reasoning?</a></p>
+        <p class="paper-authors"><b>Authors:</b> Katie Kang, Amrith Setlur, Dibya Ghosh, Jacob Steinhardt, Claire Tomlin, Sergey Levine, Aviral Kumar</p>
+    </div>
+<h3 id="learning-theory">Learning Theory</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=xHhURhYmgK" target="_blank" rel="noopener">Projection Optimization: A General Framework for Multi-Objective and Multi-Group RLHF</a></p>
+        <p class="paper-authors"><b>Authors:</b> Nuoya Xiong, Aarti Singh</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=hcLeFe7idT" target="_blank" rel="noopener">Sample-Optimal Agnostic Boosting with Unlabeled Data</a></p>
+        <p class="paper-authors"><b>Authors:</b> Udaya Ghai, Karan Singh</p>
+    </div>
+<h3 id="multi-agent">Multi-agent</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=2Sl6Ex7Vmo" target="_blank" rel="noopener">M³HF: Multi-agent Reinforcement Learning from Multi-phase Human Feedback of Mixed Quality</a></p>
+        <p class="paper-authors"><b>Authors:</b> Ziyan Wang, Zhicheng Zhang, Fei Fang, Yali Du</p>
+    </div>
+<h3 id="online-learning-and-bandits">Online Learning And Bandits</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=7cNLsEAcmL" target="_blank" rel="noopener">Offline Learning for Combinatorial Multi-armed Bandits</a></p>
+        <p class="paper-authors"><b>Authors:</b> Xutong Liu, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, Carlee Joe-Wong, John C. S. Lui, Wei Chen</p>
+    </div>
+<h3 id="online-learning,-active-learning-and-bandits">Online Learning, Active Learning And Bandits</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=TkUxFAbpfQ" target="_blank" rel="noopener">AutoAL: Automated Active Learning with Differentiable Query Strategy Search</a></p>
+        <p class="paper-authors"><b>Authors:</b> Yifeng Wang, Xueying Zhan, Siyu Huang</p>
+    </div>
+<h3 id="optimization">Optimization</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=gujuGnbhZr" target="_blank" rel="noopener">FedECADO: A Dynamical System Model of Federated Learning</a></p>
+        <p class="paper-authors"><b>Authors:</b> Aayushya Agarwal, Gauri Joshi, Lawrence Pileggi</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=dmN2fQ3woH" target="_blank" rel="noopener">Graph-Based Algorithms for Diverse Similarity Search</a></p>
+        <p class="paper-authors"><b>Authors:</b> Piyush Anand, Piotr Indyk, Ravishankar Krishnaswamy, Sepideh Mahabadi, Vikas Raykar, Kirankumar Shiragur, Haike Xu</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=nDHEkgVs8V" target="_blank" rel="noopener">Maximum Coverage in Turnstile Streams with Applications to Fingerprinting Measures</a></p>
+        <p class="paper-authors"><b>Authors:</b> Alina Ene, Alessandro Epasto, Vahab Mirrokni, Hoai-An Nguyen, Huy Nguyen, David Woodruff, Peilin Zhong</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=qKHLzCELGP" target="_blank" rel="noopener">Robust Sparsification via Sensitivity</a></p>
+        <p class="paper-authors"><b>Authors:</b> Chansophea Wathanak In, Yi Li, David Woodruff, Xuan Wu</p>
+    </div>
+<h3 id="privacy">Privacy</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=PGNff6H1TV" target="_blank" rel="noopener">EncryptedLLM: Privacy-Preserving Large Language Model Inference via GPU-Accelerated Fully Homomorphic Encryption</a></p>
+        <p class="paper-authors"><b>Authors:</b> Leo de Castro, Daniel Escudero, Adya Agrawal, Antigoni Polychroniadou, Manuela Veloso</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=HGnMNUTdUz" target="_blank" rel="noopener">Leveraging Model Guidance to Extract Training Data from Personalized Diffusion Models</a></p>
+        <p class="paper-authors"><b>Authors:</b> Xiaoyu Wu, Jiaru Zhang, Steven Wu</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=ZuaU2bYzlc" target="_blank" rel="noopener">Private Federated Learning using Preference-Optimized Synthetic Data</a></p>
+        <p class="paper-authors"><b>Authors:</b> Charlie Hou, Mei-Yu Wang, Yige Zhu, Daniel Lazar, Giulia Fanti</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=NsU6MKwbis" target="_blank" rel="noopener">Underestimated Privacy Risks for Minority Populations in Large Language Model Unlearning</a></p>
+        <p class="paper-authors"><b>Authors:</b> Rongzhe Wei, Mufei Li, Mohsen Ghassemi, Eleonora Kreacic, Yifan Li, Xiang Yue, Bo Li, Vamsi Potluru, Pan Li, Eli Chien</p>
+    </div>
+<h3 id="probabilistic-methods">Probabilistic Methods</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=Gn2izAiYzZ" target="_blank" rel="noopener">Density Ratio Estimation with Conditional Probability Paths</a></p>
+        <p class="paper-authors"><b>Authors:</b> Hanlin Yu, Arto Klami, Aapo Hyvarinen, Anna Korba, Lemir Omar Chehab</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=mxNEWzqXFH" target="_blank" rel="noopener">Improving the Statistical Efficiency of Cross-Conformal Prediction</a></p>
+        <p class="paper-authors"><b>Authors:</b> Matteo Gasparin, Aaditya Ramdas</p>
+    </div>
+<h3 id="reinforcement-learning-and-planning">Reinforcement Learning And Planning</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=ciUHD7jcT9" target="_blank" rel="noopener">Incentivize without Bonus: Provably Efficient Model-based Online Multi-agent RL for Markov Games</a></p>
+        <p class="paper-authors"><b>Authors:</b> Tong Yang, Bo Dai, Lin Xiao, Yuejie Chi</p>
+    </div>
+<h3 id="representation-learning">Representation Learning</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=4GZwFPzLgW" target="_blank" rel="noopener">Contextures: Representations from Contexts</a></p>
+        <p class="paper-authors"><b>Authors:</b> Runtian Zhai, Kai Yang, Burak VARICI, Che-Ping Tsai, Zico Kolter, Pradeep Ravikumar</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=hUHRTaTfvZ" target="_blank" rel="noopener">Learning Vision and Language Concepts for Controllable Image Generation</a></p>
+        <p class="paper-authors"><b>Authors:</b> Shaoan Xie, Lingjing Kong, Yujia Zheng, Zeyu Tang, Eric Xing, Guangyi Chen, Kun Zhang</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=cW9Ttnm1aC" target="_blank" rel="noopener">Nonparametric Identification of Latent Concepts</a></p>
+        <p class="paper-authors"><b>Authors:</b> Yujia Zheng, Shaoan Xie, Kun Zhang</p>
+    </div>
+<h3 id="research-priorities,-methodology,-and-evaluation">Research Priorities, Methodology, And Evaluation</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=kJzB6lQmcb" target="_blank" rel="noopener">Position: You Can&#8217;t Manufacture a NeRF</a></p>
+        <p class="paper-authors"><b>Authors:</b> Marta An Kimmel, Mueed Rehman, Yonatan Bisk, Gary Fedder</p>
+    </div>
+<h3 id="robotics">Robotics</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=D5RNACOZEI" target="_blank" rel="noopener">DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning</a></p>
+        <p class="paper-authors"><b>Authors:</b> Gaoyue Zhou, Hengkai Pan, Yann LeCun, Lerrel Pinto</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=X6nIBckemw" target="_blank" rel="noopener">Learning Safe Control via On-the-Fly Bandit Exploration</a></p>
+        <p class="paper-authors"><b>Authors:</b> Alexandre Capone, Ryan Cosner, Aaron Ames, Sandra Hirche</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=vWPzKn6usZ" target="_blank" rel="noopener">Towards Learning to Complete Anything in Lidar</a></p>
+        <p class="paper-authors"><b>Authors:</b> Ayça Takmaz, Cristiano Saltori, Neehar Peri, Tim Meinhardt, Riccardo de Lutio, Laura Leal-Taixé, Aljosa Osep</p>
+    </div>
+<h3 id="safety">Safety</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=q0P4rrDImq" target="_blank" rel="noopener">DIS-CO: Discovering Copyrighted Content in VLMs Training Data</a></p>
+        <p class="paper-authors"><b>Authors:</b> André Duarte, Xuandong Zhao, Arlindo Oliveira, Lei Li</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=1EgFJDjodU" target="_blank" rel="noopener">Do Not Mimic My Voice : Speaker Identity Unlearning for Zero-Shot Text-to-Speech</a></p>
+        <p class="paper-authors"><b>Authors:</b> Taesoo Kim, Jinju Kim, Dongchan Kim, Jong Hwan Ko, Gyeong-Moon Park</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=WUGrleBcYP" target="_blank" rel="noopener">SafetyAnalyst: Interpretable, Transparent, and Steerable Safety Moderation for AI Behavior</a></p>
+        <p class="paper-authors"><b>Authors:</b> Jing-Jing Li, Valentina Pyatkin, Max Kleiman-Weiner, Liwei Jiang, Nouha Dziri, Anne Collins, Jana Schaich Borg, Maarten Sap, Yejin Choi, Sydney Levine</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=HjVhSL76GM" target="_blank" rel="noopener">WMarkGPT: Watermarked Image Understanding via Multimodal Large Language Models</a></p>
+        <p class="paper-authors"><b>Authors:</b> Tan Songbai, Xuerui Qiu, Yao Shu, Gang Xu, Linrui Xu, Xiangyu Xu, HUIPING ZHUANG, Ming Li, Fei Yu</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=7DXaCYUvDN" target="_blank" rel="noopener">Weak-to-Strong Jailbreaking on Large Language Models</a></p>
+        <p class="paper-authors"><b>Authors:</b> Xuandong Zhao, Xianjun Yang, Tianyu Pang, Chao Du, Lei Li, Yu-Xiang Wang, William Wang</p>
+    </div>
+<h3 id="security">Security</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=eFjv7NPOn1" target="_blank" rel="noopener">ExpProof : Operationalizing Explanations for Confidential Models with ZKPs</a></p>
+        <p class="paper-authors"><b>Authors:</b> Chhavi Yadav, Evan Laufer, Dan Boneh, Kamalika Chaudhuri</p>
+    </div>
+<h3 id="sequential-models,-time-series">Sequential Models, Time Series</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=9NrUIaH1sx" target="_blank" rel="noopener">A Generalizable Physics-Enhanced State Space Model for Long-Term Dynamics Forecasting in Complex Environments</a></p>
+        <p class="paper-authors"><b>Authors:</b> Yuchen Wang, Hongjue Zhao, Haohong Lin, Enze Xu, Lifang He, Huajie Shao</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=B6WalMoQJW" target="_blank" rel="noopener">Enhancing Foundation Models for Time Series Forecasting via Wavelet-based Tokenization</a></p>
+        <p class="paper-authors"><b>Authors:</b> Luca Masserano, Abdul Fatir Ansari, Boran Han, Xiyuan Zhang, Christos Faloutsos, Michael Mahoney, Andrew Wilson, Youngsuk Park, Syama Sundar Yadav Rangapuram, Danielle Maddix, Yuyang Wang</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=GdYg0Ohx0k" target="_blank" rel="noopener">LSCD: Lomb&#8211;Scargle Conditioned Diffusion for Time series Imputation</a></p>
+        <p class="paper-authors"><b>Authors:</b> Elizabeth M Fons Etcheverry, Alejandro Sztrajman, Yousef El-Laham, Luciana Ferrer, Svitlana Vyetrenko, Manuela Veloso</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=2OEb20dy7B" target="_blank" rel="noopener">Understanding and Improving Length Generalization in Recurrent Models</a></p>
+        <p class="paper-authors"><b>Authors:</b> Ricardo Buitrago Ruiz, Albert Gu</p>
+    </div>
+<h3 id="social-aspects">Social Aspects</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=oRT6H6We48" target="_blank" rel="noopener">Data-driven Design of Randomized Control Trials with Guaranteed Treatment Effects</a></p>
+        <p class="paper-authors"><b>Authors:</b> Santiago Cortes-Gomez, Naveen Raman, Aarti Singh, Bryan Wilder</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=bkiM54QftZ" target="_blank" rel="noopener">On the Resilience of LLM-Based Multi-Agent Collaboration with Faulty Agents</a></p>
+        <p class="paper-authors"><b>Authors:</b> Jen-Tse Huang, Jiaxu Zhou, Tailin Jin, Xuhui Zhou, Zixi Chen, Wenxuan Wang, Youliang Yuan, Michael Lyu, Maarten Sap</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=qF6mxani2X" target="_blank" rel="noopener">STAMP Your Content: Proving Dataset Membership via Watermarked Rephrasings</a></p>
+        <p class="paper-authors"><b>Authors:</b> Saksham Rastogi, Pratyush Maini, Danish Pruthi</p>
+    </div>
+<h3 id="structure-learning">Structure Learning</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=WH3ZRH2jno" target="_blank" rel="noopener">Identification of Latent Confounders via Investigating the  Tensor Ranks of the Nonlinear Observations</a></p>
+        <p class="paper-authors"><b>Authors:</b> Zhengming Chen, Yewei Xia, Feng Xie, Jie Qiao, Zhifeng Hao, Ruichu Cai, Kun Zhang</p>
+    </div>
+<h3 id="supervised-learning">Supervised Learning</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=drP7QMlkHh" target="_blank" rel="noopener">Preserving AUC Fairness in Learning with Noisy Protected Groups</a></p>
+        <p class="paper-authors"><b>Authors:</b> Mingyang Wu, Li Lin, Wenbin Zhang, Xin Wang, Zhenhuan Yang, Shu Hu</p>
+    </div>
+<h3 id="theory">Theory</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=FU527ycGgW" target="_blank" rel="noopener">Learning-Augmented Hierarchical Clustering</a></p>
+        <p class="paper-authors"><b>Authors:</b> Vladimir Braverman, Jon C. Ergun, Chen Wang, Samson Zhou</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=lvR39kEqpZ" target="_blank" rel="noopener">On the Clean Generalization and Robust Overfitting in Adversarial Training from Two Theoretical Views: Representation Complexity and Training Dynamics</a></p>
+        <p class="paper-authors"><b>Authors:</b> Binghui Li, Yuanzhi Li</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=9oIjvaDhoN" target="_blank" rel="noopener">On the Query Complexity of Verifier-Assisted Language Generation</a></p>
+        <p class="paper-authors"><b>Authors:</b> Edoardo Botta, Yuchen Li, Aashay Mehta, Jordan Ash, Cyril Zhang, Andrej Risteski</p>
+    </div>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=JnXbUKtLzz" target="_blank" rel="noopener">Sort Before You Prune: Improved Worst-Case Guarantees of the DiskANN Family of Graphs</a></p>
+        <p class="paper-authors"><b>Authors:</b> Siddharth Gollapudi, Ravishankar Krishnaswamy, Kirankumar Shiragur, Harsh Wardhan</p>
+    </div>
+<h3 id="time-series">Time Series</h3>
+
+    <div class="paper">
+        <p class="paper-title"><a href="https://openreview.net/forum?id=goVzfYtj58" target="_blank" rel="noopener">Exploring Representations and Interventions in Time Series Foundation Models</a></p>
+        <p class="paper-authors"><b>Authors:</b> Michal Wilinski, Mononito Goswami, Willa Potosnak, Nina Żukowska, Artur Dubrawski</p>
+    </div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://blog.ml.cmu.edu/2025/07/08/carnegie-mellon-university-at-icml-2025/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://blog.ml.cmu.edu/wp-content/uploads/2025/06/1651519868_04015_00_medium.jpg" length="683589" type="image/jpeg"/><media:content url="https://blog.ml.cmu.edu/wp-content/uploads/2025/06/1651519868_04015_00_medium.jpg" width="1500" height="1057" medium="image" type="image/jpeg"/>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: blog.ml.cmu.edu @ 2025-08-24 13:36:45 by W3 Total Cache
+-->

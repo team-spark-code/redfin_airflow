@@ -1,0 +1,17 @@
+# *
+User-agent: *
+Allow: /
+
+# *
+User-agent: *
+Disallow: /api/noindex-image/
+
+# *
+User-agent: *
+Disallow: /images/
+
+# Host
+Host: https://research.ibm.com
+
+# Sitemaps
+Sitemap: https://research.ibm.com/sitemap.xml

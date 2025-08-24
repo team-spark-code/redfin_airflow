@@ -1,0 +1,16 @@
+Content-Length: 656
+Content-Type: text/xml; charset=UTF-8
+Server: server
+X-Frame-Options: SAMEORIGIN
+Pragma: no-cache
+Last-Modified: Thu, 21 Aug 2025 03:00:27 GMT
+Etag: "16ccd30a332c7a3ce5b1dad90c583616"
+Link: <https://news.samsung.com/global/wp-json/>; rel="https://api.w.org/"
+Content-Encoding: gzip
+Cache-Control: no-cache, no-store, must-revalidate
+Expires: Sun, 24 Aug 2025 17:36:44 GMT
+Date: Sun, 24 Aug 2025 17:36:44 GMT
+Vary: Accept-Encoding
+Set-Cookie: AWSALB=jaJSN/pkjnxwVyMlXMI1052cgeGjozn4MKwQE8AYZDp9YODHB8ymbfT0nThl4pLlPuGZsa5vDc58QVwbYfkiMN8dcaark+V9wf2fgJV/HEpEcVC2l7q9tjVS9gtM; Expires=Sun, 31 Aug 2025 17:36:44 GMT; Path=/
+Set-Cookie: AWSALBCORS=jaJSN/pkjnxwVyMlXMI1052cgeGjozn4MKwQE8AYZDp9YODHB8ymbfT0nThl4pLlPuGZsa5vDc58QVwbYfkiMN8dcaark+V9wf2fgJV/HEpEcVC2l7q9tjVS9gtM; Expires=Sun, 31 Aug 2025 17:36:44 GMT; Path=/; SameSite=None; Secure
+Set-Cookie: PHPSESSID=da2hopniqui38jtfpq490s5o3k; path=/

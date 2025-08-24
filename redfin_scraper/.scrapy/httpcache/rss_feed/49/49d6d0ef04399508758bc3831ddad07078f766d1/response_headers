@@ -1,0 +1,21 @@
+Date: Sun, 24 Aug 2025 17:36:41 GMT
+Content-Type: text/plain; charset=utf-8
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=0, must-revalidate
+Content-Disposition: inline
+Etag: W/"ce20ff369d090c6fbb8f9b8eaa053b28"
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding
+X-Matched-Path: /robots.txt
+X-Vercel-Cache: HIT
+X-Vercel-Id: kix1::rpbcs-1755913241046-0648f18696f4
+Cf-Cache-Status: HIT
+Age: 57207
+Set-Cookie: __cf_bm=0kduDwUWFoBc8jsvf0cLakmBqGQ2DPzKzjQgm6pChyA-1756057001-1.0.1.1-pP44M78oN_BHGNGTR.zx4j5JfyttDCK4XHsknMmhuqrHA6xZd_rVmQvBPI3LcvA9FaNHIbvkenkn4Okalig1wZXYUFFPbPj1DSy3y9dDrNE; path=/; expires=Sun, 24-Aug-25 18:06:41 GMT; domain=.openai.com; HttpOnly; Secure; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=%2F1G3gJKSrcRfUZ1hUvLatirfMeB6yd8TdfLabX6cC7qr4Fsq%2FRTm9%2Ft4tCVz7l6TwKGz1lApcRInp7qzegnvn6bqiLHCa2Zolqfxq9QqLJUTstjl2rD%2FmIPf8Uk%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Content-Type-Options: nosniff
+Server: cloudflare
+Cf-Ray: 97449d00cef9306e-ICN
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

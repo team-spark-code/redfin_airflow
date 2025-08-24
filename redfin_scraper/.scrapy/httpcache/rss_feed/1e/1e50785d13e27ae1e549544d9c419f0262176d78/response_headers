@@ -1,0 +1,11 @@
+Content-Length: 2548
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to=coop_reporting
+Report-To: {"group":"blogger-renderd","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/httpsserver2/blogger-renderd"}]}
+Content-Security-Policy-Report-Only: script-src 'none';form-action 'none';frame-src 'none'; report-uri https://csp.withgoogle.com/csp/httpsserver2/blogger-renderd
+Cross-Origin-Resource-Policy: cross-origin
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 24 Aug 2025 17:36:44 GMT
+Server: Blogger Render Server 1.0
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

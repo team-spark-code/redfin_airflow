@@ -1,0 +1,18 @@
+Content-Length: 214
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+Age: 154517
+Cache-Control: public, max-age=0, must-revalidate
+Content-Disposition: inline
+Content-Type: text/plain
+Date: Sun, 24 Aug 2025 17:36:42 GMT
+Etag: "4ddd8941bc06463c862513e3690be3b3"
+Server: Vercel
+Set-Cookie: cross-site-cookie=whatever; utm_source=value; utm_medium=value; utm_campaign=value; utm_content=value; utm_term=value; SameSite=None; Secure; Domain=cohere.com
+Strict-Transport-Security: max-age=31536000; includeSubDomains;
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch
+X-Content-Type-Options: nosniff
+X-Frame-Options: ALLOW-FROM https://www.sanity.io
+X-Matched-Path: /robots.txt
+X-Vercel-Cache: HIT
+X-Vercel-Id: icn1::rtfkg-1756057002429-4800adf7cc83
