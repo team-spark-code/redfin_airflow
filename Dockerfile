@@ -6,15 +6,20 @@ USER root
 RUN apt-get update && apt-get install -y \
     build-essential \
     libpq-dev \
-    && rm -rf /var/lib/apt/lists/*
+    curl \
+    && rm -rf /var/lib/apt/lists/* \
+    && apt-get clean
 
 USER airflow
 
 # Python 패키지 설치
 COPY requirements.txt /tmp/requirements.txt
-RUN pip install --no-cache-dir -r /tmp/requirements.txt
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir -r /tmp/requirements.txt && \
+    rm /tmp/requirements.txt
 
 # 권한 설정
 USER root
-RUN chown -R airflow:root /home/airflow/.local
+RUN chown -R airflow:root /home/airflow/.local && \
+    chmod -R 755 /home/airflow/.local
 USER airflow
