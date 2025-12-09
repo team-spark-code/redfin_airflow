@@ -1,4 +1,4 @@
-# dags/rss_to_vector_dag.py
+# dags/rss/to_vector.py
 import os, json, re, datetime as dt
 from pathlib import Path
 import pendulum

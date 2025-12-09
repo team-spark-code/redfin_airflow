@@ -1,5 +1,4 @@
-# dags/rss/rss_ingest_dag.py
-# -*- coding: utf-8 -*-
+# dags/rss/ingest.py
 """
 RSS → JSONL(원문+HTML) → Docs(JSONL, 청킹 완료) 단계까지 수행하는 얇은 DAG.
 - 크롤링: Scrapy 실행 (plugins/operators/scrapy_operators.py)
